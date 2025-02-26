@@ -1,6 +1,2 @@
-audio/**/*.ogg filter=lfs diff=lfs merge=lfs -text
-audio/*.ogg filter=lfs diff=lfs merge=lfs -text
-audio/*/*.ogg filter=lfs diff=lfs merge=lfs -text
-audio/*/*/*.ogg filter=lfs diff=lfs merge=lfs -text
-audio/*/*/*/*.ogg filter=lfs diff=lfs merge=lfs -text
-audio/*/*/*/*/*.ogg filter=lfs diff=lfs merge=lfs -text
+Data/audio/**/*.ogg filter=lfs diff=lfs merge=lfs -text
+
