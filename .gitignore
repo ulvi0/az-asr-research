@@ -1,0 +1,17 @@
+# Ignore backup and data directories
+audio/backup/
+unfiltered/
+labels/
+
+# Ignore OS-generated files
+.DS_Store       # macOS Finder metadata
+Thumbs.db       # Windows thumbnail cache
+Desktop.ini     # Windows folder settings
+
+# Ignore archives and backups
+*.zip
+*.tar.gz
+*.rar
+*~              # editor/OS backup files ending with ~
+*.tmp           # temporary files
+*.swp           # vi/vim swap files
