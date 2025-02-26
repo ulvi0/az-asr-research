@@ -1,7 +1,7 @@
 # Ignore backup and data directories
-audio/backup/
-unfiltered/
-labels/
+Data/audio/backup/
+Data/unfiltered/
+Data/labels/
 
 # Ignore OS-generated files
 .DS_Store       # macOS Finder metadata
