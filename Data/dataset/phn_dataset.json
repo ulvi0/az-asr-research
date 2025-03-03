@@ -1,0 +1,4736 @@
+[
+  {
+    "audio": "1150481435_413496_413497_35957",
+    "audio_filepath": "../Data/audio/phn/voices/1150481435_413496_413497_35957.ogg",
+    "speaker": "1150481435",
+    "transcript": "077 7256945"
+  },
+  {
+    "audio": "1150481435_413607_413608_35691",
+    "audio_filepath": "../Data/audio/phn/voices/1150481435_413607_413608_35691.ogg",
+    "speaker": "1150481435",
+    "transcript": "055 2181275"
+  },
+  {
+    "audio": "1150481435_413617_413618_35902",
+    "audio_filepath": "../Data/audio/phn/voices/1150481435_413617_413618_35902.ogg",
+    "speaker": "1150481435",
+    "transcript": "070 5912116"
+  },
+  {
+    "audio": "1150481435_413712_413713_35385",
+    "audio_filepath": "../Data/audio/phn/voices/1150481435_413712_413713_35385.ogg",
+    "speaker": "1150481435",
+    "transcript": "012 2837887"
+  },
+  {
+    "audio": "1150481435_413742_413743_36154",
+    "audio_filepath": "../Data/audio/phn/voices/1150481435_413742_413743_36154.ogg",
+    "speaker": "1150481435",
+    "transcript": "099 3775547"
+  },
+  {
+    "audio": "1150481435_413799_413800_35460",
+    "audio_filepath": "../Data/audio/phn/voices/1150481435_413799_413800_35460.ogg",
+    "speaker": "1150481435",
+    "transcript": "050 8714535"
+  },
+  {
+    "audio": "1150481435_413850_413851_36150",
+    "audio_filepath": "../Data/audio/phn/voices/1150481435_413850_413851_36150.ogg",
+    "speaker": "1150481435",
+    "transcript": "099 6995686"
+  },
+  {
+    "audio": "1150481435_413952_413953_35273",
+    "audio_filepath": "../Data/audio/phn/voices/1150481435_413952_413953_35273.ogg",
+    "speaker": "1150481435",
+    "transcript": "010 6143919"
+  },
+  {
+    "audio": "910545275_414238_414241_36031",
+    "audio_filepath": "../Data/audio/phn/voices/910545275_414238_414241_36031.ogg",
+    "speaker": "910545275",
+    "transcript": "077 5913813"
+  },
+  {
+    "audio": "910545275_414703_414707_35587",
+    "audio_filepath": "../Data/audio/phn/voices/910545275_414703_414707_35587.ogg",
+    "speaker": "910545275",
+    "transcript": "051 1299461"
+  },
+  {
+    "audio": "1150481435_414710_414713_35197",
+    "audio_filepath": "../Data/audio/phn/voices/1150481435_414710_414713_35197.ogg",
+    "speaker": "1150481435",
+    "transcript": "010 4337597"
+  },
+  {
+    "audio": "1150481435_414754_414755_35544",
+    "audio_filepath": "../Data/audio/phn/voices/1150481435_414754_414755_35544.ogg",
+    "speaker": "1150481435",
+    "transcript": "051 6436766"
+  },
+  {
+    "audio": "910545275_414844_414845_35608",
+    "audio_filepath": "../Data/audio/phn/voices/910545275_414844_414845_35608.ogg",
+    "speaker": "910545275",
+    "transcript": "051 1617133"
+  },
+  {
+    "audio": "910545275_414875_414876_35301",
+    "audio_filepath": "../Data/audio/phn/voices/910545275_414875_414876_35301.ogg",
+    "speaker": "910545275",
+    "transcript": "012 3137949"
+  },
+  {
+    "audio": "910545275_414913_414914_36014",
+    "audio_filepath": "../Data/audio/phn/voices/910545275_414913_414914_36014.ogg",
+    "speaker": "910545275",
+    "transcript": "077 1669473"
+  },
+  {
+    "audio": "910545275_414943_414944_35667",
+    "audio_filepath": "../Data/audio/phn/voices/910545275_414943_414944_35667.ogg",
+    "speaker": "910545275",
+    "transcript": "055 8131928"
+  },
+  {
+    "audio": "910545275_415001_415002_35812",
+    "audio_filepath": "../Data/audio/phn/voices/910545275_415001_415002_35812.ogg",
+    "speaker": "910545275",
+    "transcript": "070 6432199"
+  },
+  {
+    "audio": "910545275_415011_415012_35971",
+    "audio_filepath": "../Data/audio/phn/voices/910545275_415011_415012_35971.ogg",
+    "speaker": "910545275",
+    "transcript": "077 5473646"
+  },
+  {
+    "audio": "910545275_415351_415352_35769",
+    "audio_filepath": "../Data/audio/phn/voices/910545275_415351_415352_35769.ogg",
+    "speaker": "910545275",
+    "transcript": "055 6917737"
+  },
+  {
+    "audio": "910545275_415477_415478_35679",
+    "audio_filepath": "../Data/audio/phn/voices/910545275_415477_415478_35679.ogg",
+    "speaker": "910545275",
+    "transcript": "055 1687884"
+  },
+  {
+    "audio": "910545275_415671_415672_35793",
+    "audio_filepath": "../Data/audio/phn/voices/910545275_415671_415672_35793.ogg",
+    "speaker": "910545275",
+    "transcript": "070 2952423"
+  },
+  {
+    "audio": "910545275_415719_415720_35619",
+    "audio_filepath": "../Data/audio/phn/voices/910545275_415719_415720_35619.ogg",
+    "speaker": "910545275",
+    "transcript": "051 7282323"
+  },
+  {
+    "audio": "910545275_415847_415848_35507",
+    "audio_filepath": "../Data/audio/phn/voices/910545275_415847_415848_35507.ogg",
+    "speaker": "910545275",
+    "transcript": "050 5671864"
+  },
+  {
+    "audio": "1150481435_415903_415904_35210",
+    "audio_filepath": "../Data/audio/phn/voices/1150481435_415903_415904_35210.ogg",
+    "speaker": "1150481435",
+    "transcript": "010 9961537"
+  },
+  {
+    "audio": "1150481435_415935_415936_35991",
+    "audio_filepath": "../Data/audio/phn/voices/1150481435_415935_415936_35991.ogg",
+    "speaker": "1150481435",
+    "transcript": "077 7667524"
+  },
+  {
+    "audio": "1150481435_415994_415995_36136",
+    "audio_filepath": "../Data/audio/phn/voices/1150481435_415994_415995_36136.ogg",
+    "speaker": "1150481435",
+    "transcript": "099 9758745"
+  },
+  {
+    "audio": "1150481435_416056_416057_35291",
+    "audio_filepath": "../Data/audio/phn/voices/1150481435_416056_416057_35291.ogg",
+    "speaker": "1150481435",
+    "transcript": "012 3297552"
+  },
+  {
+    "audio": "1150481435_416138_416139_35533",
+    "audio_filepath": "../Data/audio/phn/voices/1150481435_416138_416139_35533.ogg",
+    "speaker": "1150481435",
+    "transcript": "050 7125644"
+  },
+  {
+    "audio": "1150481435_416188_416189_35202",
+    "audio_filepath": "../Data/audio/phn/voices/1150481435_416188_416189_35202.ogg",
+    "speaker": "1150481435",
+    "transcript": "010 5938487"
+  },
+  {
+    "audio": "1150481435_416196_416197_36124",
+    "audio_filepath": "../Data/audio/phn/voices/1150481435_416196_416197_36124.ogg",
+    "speaker": "1150481435",
+    "transcript": "099 7927161"
+  },
+  {
+    "audio": "1150481435_416316_416317_35445",
+    "audio_filepath": "../Data/audio/phn/voices/1150481435_416316_416317_35445.ogg",
+    "speaker": "1150481435",
+    "transcript": "050 4799723"
+  },
+  {
+    "audio": "1150481435_416372_416373_36118",
+    "audio_filepath": "../Data/audio/phn/voices/1150481435_416372_416373_36118.ogg",
+    "speaker": "1150481435",
+    "transcript": "099 3761438"
+  },
+  {
+    "audio": "1150481435_416382_416383_35996",
+    "audio_filepath": "../Data/audio/phn/voices/1150481435_416382_416383_35996.ogg",
+    "speaker": "1150481435",
+    "transcript": "077 3521163"
+  },
+  {
+    "audio": "1150481435_416392_416393_35169",
+    "audio_filepath": "../Data/audio/phn/voices/1150481435_416392_416393_35169.ogg",
+    "speaker": "1150481435",
+    "transcript": "010 2931927"
+  },
+  {
+    "audio": "1150481435_416450_416451_35511",
+    "audio_filepath": "../Data/audio/phn/voices/1150481435_416450_416451_35511.ogg",
+    "speaker": "1150481435",
+    "transcript": "050 9234951"
+  },
+  {
+    "audio": "1150481435_416502_416503_35327",
+    "audio_filepath": "../Data/audio/phn/voices/1150481435_416502_416503_35327.ogg",
+    "speaker": "1150481435",
+    "transcript": "012 9161232"
+  },
+  {
+    "audio": "1150481435_416705_416706_35249",
+    "audio_filepath": "../Data/audio/phn/voices/1150481435_416705_416706_35249.ogg",
+    "speaker": "1150481435",
+    "transcript": "010 7625585"
+  },
+  {
+    "audio": "1150481435_416811_416812_36048",
+    "audio_filepath": "../Data/audio/phn/voices/1150481435_416811_416812_36048.ogg",
+    "speaker": "1150481435",
+    "transcript": "099 5687547"
+  },
+  {
+    "audio": "1150481435_416831_416832_35933",
+    "audio_filepath": "../Data/audio/phn/voices/1150481435_416831_416832_35933.ogg",
+    "speaker": "1150481435",
+    "transcript": "077 6696124"
+  },
+  {
+    "audio": "640339050_417044_417045_35869",
+    "audio_filepath": "../Data/audio/phn/voices/640339050_417044_417045_35869.ogg",
+    "speaker": "640339050",
+    "transcript": "070 2128493"
+  },
+  {
+    "audio": "640339050_417144_417145_35484",
+    "audio_filepath": "../Data/audio/phn/voices/640339050_417144_417145_35484.ogg",
+    "speaker": "640339050",
+    "transcript": "050 8262353"
+  },
+  {
+    "audio": "575298922_417222_417223_35215",
+    "audio_filepath": "../Data/audio/phn/voices/575298922_417222_417223_35215.ogg",
+    "speaker": "575298922",
+    "transcript": "010 4827382"
+  },
+  {
+    "audio": "575298922_417264_417265_35824",
+    "audio_filepath": "../Data/audio/phn/voices/575298922_417264_417265_35824.ogg",
+    "speaker": "575298922",
+    "transcript": "070 4661681"
+  },
+  {
+    "audio": "575298922_417290_417291_35836",
+    "audio_filepath": "../Data/audio/phn/voices/575298922_417290_417291_35836.ogg",
+    "speaker": "575298922",
+    "transcript": "070 9645925"
+  },
+  {
+    "audio": "575298922_417308_417309_35459",
+    "audio_filepath": "../Data/audio/phn/voices/575298922_417308_417309_35459.ogg",
+    "speaker": "575298922",
+    "transcript": "050 2967836"
+  },
+  {
+    "audio": "860296669_417449_417450_35926",
+    "audio_filepath": "../Data/audio/phn/voices/860296669_417449_417450_35926.ogg",
+    "speaker": "860296669",
+    "transcript": "077 7118185"
+  },
+  {
+    "audio": "860296669_417463_417464_35203",
+    "audio_filepath": "../Data/audio/phn/voices/860296669_417463_417464_35203.ogg",
+    "speaker": "860296669",
+    "transcript": "010 2878452"
+  },
+  {
+    "audio": "954206432_417603_417604_35570",
+    "audio_filepath": "../Data/audio/phn/voices/954206432_417603_417604_35570.ogg",
+    "speaker": "954206432",
+    "transcript": "051 5418181"
+  },
+  {
+    "audio": "5440156582_417632_417635_35911",
+    "audio_filepath": "../Data/audio/phn/voices/5440156582_417632_417635_35911.ogg",
+    "speaker": "5440156582",
+    "transcript": "077 3925196"
+  },
+  {
+    "audio": "5440156582_417714_417715_35526",
+    "audio_filepath": "../Data/audio/phn/voices/5440156582_417714_417715_35526.ogg",
+    "speaker": "5440156582",
+    "transcript": "050 6335423"
+  },
+  {
+    "audio": "5440156582_417718_417719_36063",
+    "audio_filepath": "../Data/audio/phn/voices/5440156582_417718_417719_36063.ogg",
+    "speaker": "5440156582",
+    "transcript": "099 8578976"
+  },
+  {
+    "audio": "954206432_417798_417799_36147",
+    "audio_filepath": "../Data/audio/phn/voices/954206432_417798_417799_36147.ogg",
+    "speaker": "954206432",
+    "transcript": "099 7355819"
+  },
+  {
+    "audio": "954206432_417828_417829_35695",
+    "audio_filepath": "../Data/audio/phn/voices/954206432_417828_417829_35695.ogg",
+    "speaker": "954206432",
+    "transcript": "055 2823463"
+  },
+  {
+    "audio": "860296669_417957_417992_35257",
+    "audio_filepath": "../Data/audio/phn/voices/860296669_417957_417992_35257.ogg",
+    "speaker": "860296669",
+    "transcript": "010 7338424"
+  },
+  {
+    "audio": "892642911_418005_418008_35738",
+    "audio_filepath": "../Data/audio/phn/voices/892642911_418005_418008_35738.ogg",
+    "speaker": "892642911",
+    "transcript": "055 7142314"
+  },
+  {
+    "audio": "860296669_418078_418079_35457",
+    "audio_filepath": "../Data/audio/phn/voices/860296669_418078_418079_35457.ogg",
+    "speaker": "860296669",
+    "transcript": "050 7222795"
+  },
+  {
+    "audio": "892642911_418106_418107_35361",
+    "audio_filepath": "../Data/audio/phn/voices/892642911_418106_418107_35361.ogg",
+    "speaker": "892642911",
+    "transcript": "012 4916223"
+  },
+  {
+    "audio": "860296669_418212_418213_36108",
+    "audio_filepath": "../Data/audio/phn/voices/860296669_418212_418213_36108.ogg",
+    "speaker": "860296669",
+    "transcript": "099 4167125"
+  },
+  {
+    "audio": "860296669_418216_418217_35868",
+    "audio_filepath": "../Data/audio/phn/voices/860296669_418216_418217_35868.ogg",
+    "speaker": "860296669",
+    "transcript": "070 8242943"
+  },
+  {
+    "audio": "860296669_418224_418225_35247",
+    "audio_filepath": "../Data/audio/phn/voices/860296669_418224_418225_35247.ogg",
+    "speaker": "860296669",
+    "transcript": "010 6877823"
+  },
+  {
+    "audio": "575298922_418312_418313_35537",
+    "audio_filepath": "../Data/audio/phn/voices/575298922_418312_418313_35537.ogg",
+    "speaker": "575298922",
+    "transcript": "051 6756657"
+  },
+  {
+    "audio": "575298922_418318_418319_35687",
+    "audio_filepath": "../Data/audio/phn/voices/575298922_418318_418319_35687.ogg",
+    "speaker": "575298922",
+    "transcript": "055 2437563"
+  },
+  {
+    "audio": "575298922_418429_418430_35834",
+    "audio_filepath": "../Data/audio/phn/voices/575298922_418429_418430_35834.ogg",
+    "speaker": "575298922",
+    "transcript": "070 9718845"
+  },
+  {
+    "audio": "575298922_418435_418436_36060",
+    "audio_filepath": "../Data/audio/phn/voices/575298922_418435_418436_36060.ogg",
+    "speaker": "575298922",
+    "transcript": "099 9749689"
+  },
+  {
+    "audio": "575298922_418475_418476_35665",
+    "audio_filepath": "../Data/audio/phn/voices/575298922_418475_418476_35665.ogg",
+    "speaker": "575298922",
+    "transcript": "055 2571898"
+  },
+  {
+    "audio": "575298922_418523_418524_35390",
+    "audio_filepath": "../Data/audio/phn/voices/575298922_418523_418524_35390.ogg",
+    "speaker": "575298922",
+    "transcript": "012 9825377"
+  },
+  {
+    "audio": "5028632961_418712_418713_35253",
+    "audio_filepath": "../Data/audio/phn/voices/5028632961_418712_418713_35253.ogg",
+    "speaker": "5028632961",
+    "transcript": "010 9119625"
+  },
+  {
+    "audio": "5028632961_418975_418976_35759",
+    "audio_filepath": "../Data/audio/phn/voices/5028632961_418975_418976_35759.ogg",
+    "speaker": "5028632961",
+    "transcript": "055 6357758"
+  },
+  {
+    "audio": "5028632961_419086_419087_35955",
+    "audio_filepath": "../Data/audio/phn/voices/5028632961_419086_419087_35955.ogg",
+    "speaker": "5028632961",
+    "transcript": "077 3199396"
+  },
+  {
+    "audio": "5028632961_419094_419095_35907",
+    "audio_filepath": "../Data/audio/phn/voices/5028632961_419094_419095_35907.ogg",
+    "speaker": "5028632961",
+    "transcript": "070 5226693"
+  },
+  {
+    "audio": "5028632961_419141_419142_35669",
+    "audio_filepath": "../Data/audio/phn/voices/5028632961_419141_419142_35669.ogg",
+    "speaker": "5028632961",
+    "transcript": "055 3172991"
+  },
+  {
+    "audio": "5028632961_419155_419156_35927",
+    "audio_filepath": "../Data/audio/phn/voices/5028632961_419155_419156_35927.ogg",
+    "speaker": "5028632961",
+    "transcript": "077 5111776"
+  },
+  {
+    "audio": "5028632961_419207_419208_35830",
+    "audio_filepath": "../Data/audio/phn/voices/5028632961_419207_419208_35830.ogg",
+    "speaker": "5028632961",
+    "transcript": "070 6478916"
+  },
+  {
+    "audio": "5028632961_419277_419278_35859",
+    "audio_filepath": "../Data/audio/phn/voices/5028632961_419277_419278_35859.ogg",
+    "speaker": "5028632961",
+    "transcript": "070 2613432"
+  },
+  {
+    "audio": "5028632961_419355_419356_35516",
+    "audio_filepath": "../Data/audio/phn/voices/5028632961_419355_419356_35516.ogg",
+    "speaker": "5028632961",
+    "transcript": "050 4945674"
+  },
+  {
+    "audio": "5028632961_419425_419426_35430",
+    "audio_filepath": "../Data/audio/phn/voices/5028632961_419425_419426_35430.ogg",
+    "speaker": "5028632961",
+    "transcript": "050 9635857"
+  },
+  {
+    "audio": "5028632961_419429_419430_35666",
+    "audio_filepath": "../Data/audio/phn/voices/5028632961_419429_419430_35666.ogg",
+    "speaker": "5028632961",
+    "transcript": "055 1531445"
+  },
+  {
+    "audio": "5028632961_419499_419500_36059",
+    "audio_filepath": "../Data/audio/phn/voices/5028632961_419499_419500_36059.ogg",
+    "speaker": "5028632961",
+    "transcript": "099 2581923"
+  },
+  {
+    "audio": "5028632961_419527_419528_35799",
+    "audio_filepath": "../Data/audio/phn/voices/5028632961_419527_419528_35799.ogg",
+    "speaker": "5028632961",
+    "transcript": "070 3437552"
+  },
+  {
+    "audio": "5028632961_419756_419757_35716",
+    "audio_filepath": "../Data/audio/phn/voices/5028632961_419756_419757_35716.ogg",
+    "speaker": "5028632961",
+    "transcript": "055 1438534"
+  },
+  {
+    "audio": "5028632961_419822_419823_35752",
+    "audio_filepath": "../Data/audio/phn/voices/5028632961_419822_419823_35752.ogg",
+    "speaker": "5028632961",
+    "transcript": "055 8651799"
+  },
+  {
+    "audio": "5028632961_419992_419995_35753",
+    "audio_filepath": "../Data/audio/phn/voices/5028632961_419992_419995_35753.ogg",
+    "speaker": "5028632961",
+    "transcript": "055 6914339"
+  },
+  {
+    "audio": "705098248_420041_420045_35704",
+    "audio_filepath": "../Data/audio/phn/voices/705098248_420041_420045_35704.ogg",
+    "speaker": "705098248",
+    "transcript": "055 7529591"
+  },
+  {
+    "audio": "705098248_420142_420145_35724",
+    "audio_filepath": "../Data/audio/phn/voices/705098248_420142_420145_35724.ogg",
+    "speaker": "705098248",
+    "transcript": "055 9263967"
+  },
+  {
+    "audio": "5028632961_420158_420160_35870",
+    "audio_filepath": "../Data/audio/phn/voices/5028632961_420158_420160_35870.ogg",
+    "speaker": "5028632961",
+    "transcript": "070 7181679"
+  },
+  {
+    "audio": "705098248_420172_420173_35851",
+    "audio_filepath": "../Data/audio/phn/voices/705098248_420172_420173_35851.ogg",
+    "speaker": "705098248",
+    "transcript": "070 8647789"
+  },
+  {
+    "audio": "5028632961_420200_420206_35535",
+    "audio_filepath": "../Data/audio/phn/voices/5028632961_420200_420206_35535.ogg",
+    "speaker": "5028632961",
+    "transcript": "050 5189614"
+  },
+  {
+    "audio": "5028632961_420222_420228_36018",
+    "audio_filepath": "../Data/audio/phn/voices/5028632961_420222_420228_36018.ogg",
+    "speaker": "5028632961",
+    "transcript": "077 7565229"
+  },
+  {
+    "audio": "705098248_420271_420274_35342",
+    "audio_filepath": "../Data/audio/phn/voices/705098248_420271_420274_35342.ogg",
+    "speaker": "705098248",
+    "transcript": "012 1181229"
+  },
+  {
+    "audio": "705098248_420439_420440_35491",
+    "audio_filepath": "../Data/audio/phn/voices/705098248_420439_420440_35491.ogg",
+    "speaker": "705098248",
+    "transcript": "050 7141164"
+  },
+  {
+    "audio": "5028632961_420597_420604_36090",
+    "audio_filepath": "../Data/audio/phn/voices/5028632961_420597_420604_36090.ogg",
+    "speaker": "5028632961",
+    "transcript": "099 3671916"
+  },
+  {
+    "audio": "5028632961_420749_420750_35424",
+    "audio_filepath": "../Data/audio/phn/voices/5028632961_420749_420750_35424.ogg",
+    "speaker": "5028632961",
+    "transcript": "050 2218134"
+  },
+  {
+    "audio": "954206432_420907_420912_35426",
+    "audio_filepath": "../Data/audio/phn/voices/954206432_420907_420912_35426.ogg",
+    "speaker": "954206432",
+    "transcript": "050 1387254"
+  },
+  {
+    "audio": "705098248_420911_420914_35368",
+    "audio_filepath": "../Data/audio/phn/voices/705098248_420911_420914_35368.ogg",
+    "speaker": "705098248",
+    "transcript": "012 7779384"
+  },
+  {
+    "audio": "954206432_420923_420926_35833",
+    "audio_filepath": "../Data/audio/phn/voices/954206432_420923_420926_35833.ogg",
+    "speaker": "954206432",
+    "transcript": "070 5121593"
+  },
+  {
+    "audio": "954206432_421001_421006_35847",
+    "audio_filepath": "../Data/audio/phn/voices/954206432_421001_421006_35847.ogg",
+    "speaker": "954206432",
+    "transcript": "070 4898227"
+  },
+  {
+    "audio": "954206432_421017_421022_36134",
+    "audio_filepath": "../Data/audio/phn/voices/954206432_421017_421022_36134.ogg",
+    "speaker": "954206432",
+    "transcript": "099 1113917"
+  },
+  {
+    "audio": "954206432_421106_421107_35692",
+    "audio_filepath": "../Data/audio/phn/voices/954206432_421106_421107_35692.ogg",
+    "speaker": "954206432",
+    "transcript": "055 9844192"
+  },
+  {
+    "audio": "705098248_421138_421139_35521",
+    "audio_filepath": "../Data/audio/phn/voices/705098248_421138_421139_35521.ogg",
+    "speaker": "705098248",
+    "transcript": "050 2184112"
+  },
+  {
+    "audio": "5028632961_421248_421251_35867",
+    "audio_filepath": "../Data/audio/phn/voices/5028632961_421248_421251_35867.ogg",
+    "speaker": "5028632961",
+    "transcript": "070 7248472"
+  },
+  {
+    "audio": "5028632961_421387_421389_35645",
+    "audio_filepath": "../Data/audio/phn/voices/5028632961_421387_421389_35645.ogg",
+    "speaker": "5028632961",
+    "transcript": "051 5684233"
+  },
+  {
+    "audio": "5028632961_421554_421555_35982",
+    "audio_filepath": "../Data/audio/phn/voices/5028632961_421554_421555_35982.ogg",
+    "speaker": "5028632961",
+    "transcript": "077 7632896"
+  },
+  {
+    "audio": "5028632961_421564_421565_35179",
+    "audio_filepath": "../Data/audio/phn/voices/5028632961_421564_421565_35179.ogg",
+    "speaker": "5028632961",
+    "transcript": "010 5323754"
+  },
+  {
+    "audio": "954206432_421725_421728_35746",
+    "audio_filepath": "../Data/audio/phn/voices/954206432_421725_421728_35746.ogg",
+    "speaker": "954206432",
+    "transcript": "055 6736816"
+  },
+  {
+    "audio": "671891258_421920_421929_35404",
+    "audio_filepath": "../Data/audio/phn/voices/671891258_421920_421929_35404.ogg",
+    "speaker": "671891258",
+    "transcript": "012 9637362"
+  },
+  {
+    "audio": "671891258_422279_422281_35699",
+    "audio_filepath": "../Data/audio/phn/voices/671891258_422279_422281_35699.ogg",
+    "speaker": "671891258",
+    "transcript": "055 2926996"
+  },
+  {
+    "audio": "671891258_422387_422390_35853",
+    "audio_filepath": "../Data/audio/phn/voices/671891258_422387_422390_35853.ogg",
+    "speaker": "671891258",
+    "transcript": "070 9362117"
+  },
+  {
+    "audio": "314849420_422489_422490_35689",
+    "audio_filepath": "../Data/audio/phn/voices/314849420_422489_422490_35689.ogg",
+    "speaker": "314849420",
+    "transcript": "055 3517873"
+  },
+  {
+    "audio": "671891258_422688_422731_35497",
+    "audio_filepath": "../Data/audio/phn/voices/671891258_422688_422731_35497.ogg",
+    "speaker": "671891258",
+    "transcript": "050 5227222"
+  },
+  {
+    "audio": "671891258_422734_422735_35472",
+    "audio_filepath": "../Data/audio/phn/voices/671891258_422734_422735_35472.ogg",
+    "speaker": "671891258",
+    "transcript": "050 4439358"
+  },
+  {
+    "audio": "671891258_422798_422799_36098",
+    "audio_filepath": "../Data/audio/phn/voices/671891258_422798_422799_36098.ogg",
+    "speaker": "671891258",
+    "transcript": "099 4816722"
+  },
+  {
+    "audio": "671891258_422818_422819_35322",
+    "audio_filepath": "../Data/audio/phn/voices/671891258_422818_422819_35322.ogg",
+    "speaker": "671891258",
+    "transcript": "012 5548618"
+  },
+  {
+    "audio": "5196964268_422879_422880_35696",
+    "audio_filepath": "../Data/audio/phn/voices/5196964268_422879_422880_35696.ogg",
+    "speaker": "5196964268",
+    "transcript": "055 3211977"
+  },
+  {
+    "audio": "640339050_422899_422902_35578",
+    "audio_filepath": "../Data/audio/phn/voices/640339050_422899_422902_35578.ogg",
+    "speaker": "640339050",
+    "transcript": "051 4894626"
+  },
+  {
+    "audio": "5196964268_422987_422988_35389",
+    "audio_filepath": "../Data/audio/phn/voices/5196964268_422987_422988_35389.ogg",
+    "speaker": "5196964268",
+    "transcript": "012 1648873"
+  },
+  {
+    "audio": "5196964268_422995_422996_35354",
+    "audio_filepath": "../Data/audio/phn/voices/5196964268_422995_422996_35354.ogg",
+    "speaker": "5196964268",
+    "transcript": "012 1436776"
+  },
+  {
+    "audio": "5196964268_423127_423128_35624",
+    "audio_filepath": "../Data/audio/phn/voices/5196964268_423127_423128_35624.ogg",
+    "speaker": "5196964268",
+    "transcript": "051 4671162"
+  },
+  {
+    "audio": "5196964268_423340_423341_35590",
+    "audio_filepath": "../Data/audio/phn/voices/5196964268_423340_423341_35590.ogg",
+    "speaker": "5196964268",
+    "transcript": "051 4926717"
+  },
+  {
+    "audio": "5196964268_423350_423351_35756",
+    "audio_filepath": "../Data/audio/phn/voices/5196964268_423350_423351_35756.ogg",
+    "speaker": "5196964268",
+    "transcript": "055 7985363"
+  },
+  {
+    "audio": "314849420_423450_423451_35192",
+    "audio_filepath": "../Data/audio/phn/voices/314849420_423450_423451_35192.ogg",
+    "speaker": "314849420",
+    "transcript": "010 8242836"
+  },
+  {
+    "audio": "5196964268_423482_423483_36013",
+    "audio_filepath": "../Data/audio/phn/voices/5196964268_423482_423483_36013.ogg",
+    "speaker": "5196964268",
+    "transcript": "077 8578349"
+  },
+  {
+    "audio": "5196964268_423498_423499_35722",
+    "audio_filepath": "../Data/audio/phn/voices/5196964268_423498_423499_35722.ogg",
+    "speaker": "5196964268",
+    "transcript": "055 7859928"
+  },
+  {
+    "audio": "5196964268_423500_423501_35566",
+    "audio_filepath": "../Data/audio/phn/voices/5196964268_423500_423501_35566.ogg",
+    "speaker": "5196964268",
+    "transcript": "051 6245189"
+  },
+  {
+    "audio": "5196964268_423590_423591_35904",
+    "audio_filepath": "../Data/audio/phn/voices/5196964268_423590_423591_35904.ogg",
+    "speaker": "5196964268",
+    "transcript": "070 7534467"
+  },
+  {
+    "audio": "892642911_423607_423608_35605",
+    "audio_filepath": "../Data/audio/phn/voices/892642911_423607_423608_35605.ogg",
+    "speaker": "892642911",
+    "transcript": "051 3455777"
+  },
+  {
+    "audio": "892642911_423611_423612_35483",
+    "audio_filepath": "../Data/audio/phn/voices/892642911_423611_423612_35483.ogg",
+    "speaker": "892642911",
+    "transcript": "050 6671475"
+  },
+  {
+    "audio": "892642911_423633_423634_35289",
+    "audio_filepath": "../Data/audio/phn/voices/892642911_423633_423634_35289.ogg",
+    "speaker": "892642911",
+    "transcript": "012 7119278"
+  },
+  {
+    "audio": "892642911_423807_423808_35359",
+    "audio_filepath": "../Data/audio/phn/voices/892642911_423807_423808_35359.ogg",
+    "speaker": "892642911",
+    "transcript": "012 5183796"
+  },
+  {
+    "audio": "892642911_424111_424112_36008",
+    "audio_filepath": "../Data/audio/phn/voices/892642911_424111_424112_36008.ogg",
+    "speaker": "892642911",
+    "transcript": "077 2732773"
+  },
+  {
+    "audio": "892642911_424129_424130_35673",
+    "audio_filepath": "../Data/audio/phn/voices/892642911_424129_424130_35673.ogg",
+    "speaker": "892642911",
+    "transcript": "055 3779854"
+  },
+  {
+    "audio": "892642911_424171_424172_35809",
+    "audio_filepath": "../Data/audio/phn/voices/892642911_424171_424172_35809.ogg",
+    "speaker": "892642911",
+    "transcript": "070 8578771"
+  },
+  {
+    "audio": "892642911_424215_424216_35876",
+    "audio_filepath": "../Data/audio/phn/voices/892642911_424215_424216_35876.ogg",
+    "speaker": "892642911",
+    "transcript": "070 1963848"
+  },
+  {
+    "audio": "5196964268_424574_424575_35461",
+    "audio_filepath": "../Data/audio/phn/voices/5196964268_424574_424575_35461.ogg",
+    "speaker": "5196964268",
+    "transcript": "050 8438732"
+  },
+  {
+    "audio": "5196964268_424604_424605_36025",
+    "audio_filepath": "../Data/audio/phn/voices/5196964268_424604_424605_36025.ogg",
+    "speaker": "5196964268",
+    "transcript": "077 7972977"
+  },
+  {
+    "audio": "5196964268_424644_424645_35440",
+    "audio_filepath": "../Data/audio/phn/voices/5196964268_424644_424645_35440.ogg",
+    "speaker": "5196964268",
+    "transcript": "050 4565689"
+  },
+  {
+    "audio": "5196964268_424662_424663_36022",
+    "audio_filepath": "../Data/audio/phn/voices/5196964268_424662_424663_36022.ogg",
+    "speaker": "5196964268",
+    "transcript": "077 9419977"
+  },
+  {
+    "audio": "5196964268_424694_424695_35405",
+    "audio_filepath": "../Data/audio/phn/voices/5196964268_424694_424695_35405.ogg",
+    "speaker": "5196964268",
+    "transcript": "012 9411166"
+  },
+  {
+    "audio": "1268975918_425166_425167_35881",
+    "audio_filepath": "../Data/audio/phn/voices/1268975918_425166_425167_35881.ogg",
+    "speaker": "1268975918",
+    "transcript": "070 6143686"
+  },
+  {
+    "audio": "1268975918_425240_425241_35556",
+    "audio_filepath": "../Data/audio/phn/voices/1268975918_425240_425241_35556.ogg",
+    "speaker": "1268975918",
+    "transcript": "051 8364659"
+  },
+  {
+    "audio": "1268975918_425312_425313_35963",
+    "audio_filepath": "../Data/audio/phn/voices/1268975918_425312_425313_35963.ogg",
+    "speaker": "1268975918",
+    "transcript": "077 2277894"
+  },
+  {
+    "audio": "1268975918_425316_425317_35677",
+    "audio_filepath": "../Data/audio/phn/voices/1268975918_425316_425317_35677.ogg",
+    "speaker": "1268975918",
+    "transcript": "055 8926471"
+  },
+  {
+    "audio": "1268975918_425364_425365_35229",
+    "audio_filepath": "../Data/audio/phn/voices/1268975918_425364_425365_35229.ogg",
+    "speaker": "1268975918",
+    "transcript": "010 9931561"
+  },
+  {
+    "audio": "1268975918_425495_425496_35225",
+    "audio_filepath": "../Data/audio/phn/voices/1268975918_425495_425496_35225.ogg",
+    "speaker": "1268975918",
+    "transcript": "010 3262619"
+  },
+  {
+    "audio": "1268975918_425554_425555_35325",
+    "audio_filepath": "../Data/audio/phn/voices/1268975918_425554_425555_35325.ogg",
+    "speaker": "1268975918",
+    "transcript": "012 7214961"
+  },
+  {
+    "audio": "1268975918_425837_425838_35895",
+    "audio_filepath": "../Data/audio/phn/voices/1268975918_425837_425838_35895.ogg",
+    "speaker": "1268975918",
+    "transcript": "070 8465428"
+  },
+  {
+    "audio": "1268975918_425871_425872_35220",
+    "audio_filepath": "../Data/audio/phn/voices/1268975918_425871_425872_35220.ogg",
+    "speaker": "1268975918",
+    "transcript": "010 5338222"
+  },
+  {
+    "audio": "1268975918_425891_425892_36095",
+    "audio_filepath": "../Data/audio/phn/voices/1268975918_425891_425892_36095.ogg",
+    "speaker": "1268975918",
+    "transcript": "099 8982424"
+  },
+  {
+    "audio": "1268975918_425961_425962_35924",
+    "audio_filepath": "../Data/audio/phn/voices/1268975918_425961_425962_35924.ogg",
+    "speaker": "1268975918",
+    "transcript": "077 8747978"
+  },
+  {
+    "audio": "1268975918_425963_425964_35554",
+    "audio_filepath": "../Data/audio/phn/voices/1268975918_425963_425964_35554.ogg",
+    "speaker": "1268975918",
+    "transcript": "051 2883153"
+  },
+  {
+    "audio": "1268975918_426071_426072_36032",
+    "audio_filepath": "../Data/audio/phn/voices/1268975918_426071_426072_36032.ogg",
+    "speaker": "1268975918",
+    "transcript": "099 7452918"
+  },
+  {
+    "audio": "954206432_426093_426094_35773",
+    "audio_filepath": "../Data/audio/phn/voices/954206432_426093_426094_35773.ogg",
+    "speaker": "954206432",
+    "transcript": "055 5783931"
+  },
+  {
+    "audio": "954206432_426146_426147_35935",
+    "audio_filepath": "../Data/audio/phn/voices/954206432_426146_426147_35935.ogg",
+    "speaker": "954206432",
+    "transcript": "077 7119571"
+  },
+  {
+    "audio": "1268975918_426085_426157_35399",
+    "audio_filepath": "../Data/audio/phn/voices/1268975918_426085_426157_35399.ogg",
+    "speaker": "1268975918",
+    "transcript": "012 2643672"
+  },
+  {
+    "audio": "1268975918_426220_426221_35269",
+    "audio_filepath": "../Data/audio/phn/voices/1268975918_426220_426221_35269.ogg",
+    "speaker": "1268975918",
+    "transcript": "010 2864684"
+  },
+  {
+    "audio": "1268975918_426248_426249_35550",
+    "audio_filepath": "../Data/audio/phn/voices/1268975918_426248_426249_35550.ogg",
+    "speaker": "1268975918",
+    "transcript": "051 6139557"
+  },
+  {
+    "audio": "1268975918_426272_426273_35492",
+    "audio_filepath": "../Data/audio/phn/voices/1268975918_426272_426273_35492.ogg",
+    "speaker": "1268975918",
+    "transcript": "050 7655424"
+  },
+  {
+    "audio": "1268975918_426340_426341_35822",
+    "audio_filepath": "../Data/audio/phn/voices/1268975918_426340_426341_35822.ogg",
+    "speaker": "1268975918",
+    "transcript": "070 2267946"
+  },
+  {
+    "audio": "1268975918_426360_426361_35207",
+    "audio_filepath": "../Data/audio/phn/voices/1268975918_426360_426361_35207.ogg",
+    "speaker": "1268975918",
+    "transcript": "010 7426487"
+  },
+  {
+    "audio": "1268975918_426514_426515_35377",
+    "audio_filepath": "../Data/audio/phn/voices/1268975918_426514_426515_35377.ogg",
+    "speaker": "1268975918",
+    "transcript": "012 2988534"
+  },
+  {
+    "audio": "1268975918_426518_426519_35672",
+    "audio_filepath": "../Data/audio/phn/voices/1268975918_426518_426519_35672.ogg",
+    "speaker": "1268975918",
+    "transcript": "055 6864976"
+  },
+  {
+    "audio": "1268975918_426663_426664_35903",
+    "audio_filepath": "../Data/audio/phn/voices/1268975918_426663_426664_35903.ogg",
+    "speaker": "1268975918",
+    "transcript": "070 3659451"
+  },
+  {
+    "audio": "919361428_427031_427032_35334",
+    "audio_filepath": "../Data/audio/phn/voices/919361428_427031_427032_35334.ogg",
+    "speaker": "919361428",
+    "transcript": "012 8946541"
+  },
+  {
+    "audio": "919361428_427207_427208_35260",
+    "audio_filepath": "../Data/audio/phn/voices/919361428_427207_427208_35260.ogg",
+    "speaker": "919361428",
+    "transcript": "010 2978314"
+  },
+  {
+    "audio": "919361428_427211_427212_35165",
+    "audio_filepath": "../Data/audio/phn/voices/919361428_427211_427212_35165.ogg",
+    "speaker": "919361428",
+    "transcript": "010 9948599"
+  },
+  {
+    "audio": "919361428_427395_427396_35311",
+    "audio_filepath": "../Data/audio/phn/voices/919361428_427395_427396_35311.ogg",
+    "speaker": "919361428",
+    "transcript": "012 7629394"
+  },
+  {
+    "audio": "919361428_427569_427570_35456",
+    "audio_filepath": "../Data/audio/phn/voices/919361428_427569_427570_35456.ogg",
+    "speaker": "919361428",
+    "transcript": "050 2415495"
+  },
+  {
+    "audio": "919361428_427571_427572_35782",
+    "audio_filepath": "../Data/audio/phn/voices/919361428_427571_427572_35782.ogg",
+    "speaker": "919361428",
+    "transcript": "055 1365914"
+  },
+  {
+    "audio": "919361428_427587_427588_36066",
+    "audio_filepath": "../Data/audio/phn/voices/919361428_427587_427588_36066.ogg",
+    "speaker": "919361428",
+    "transcript": "099 7662597"
+  },
+  {
+    "audio": "919361428_427613_427614_36123",
+    "audio_filepath": "../Data/audio/phn/voices/919361428_427613_427614_36123.ogg",
+    "speaker": "919361428",
+    "transcript": "099 2728445"
+  },
+  {
+    "audio": "919361428_427651_427652_36097",
+    "audio_filepath": "../Data/audio/phn/voices/919361428_427651_427652_36097.ogg",
+    "speaker": "919361428",
+    "transcript": "099 5568126"
+  },
+  {
+    "audio": "919361428_427699_427700_35706",
+    "audio_filepath": "../Data/audio/phn/voices/919361428_427699_427700_35706.ogg",
+    "speaker": "919361428",
+    "transcript": "055 8593266"
+  },
+  {
+    "audio": "919361428_427703_427704_35498",
+    "audio_filepath": "../Data/audio/phn/voices/919361428_427703_427704_35498.ogg",
+    "speaker": "919361428",
+    "transcript": "050 2622339"
+  },
+  {
+    "audio": "919361428_427731_427732_35205",
+    "audio_filepath": "../Data/audio/phn/voices/919361428_427731_427732_35205.ogg",
+    "speaker": "919361428",
+    "transcript": "010 7847594"
+  },
+  {
+    "audio": "919361428_427789_427790_35496",
+    "audio_filepath": "../Data/audio/phn/voices/919361428_427789_427790_35496.ogg",
+    "speaker": "919361428",
+    "transcript": "050 4663853"
+  },
+  {
+    "audio": "919361428_427823_427824_35779",
+    "audio_filepath": "../Data/audio/phn/voices/919361428_427823_427824_35779.ogg",
+    "speaker": "919361428",
+    "transcript": "055 6261968"
+  },
+  {
+    "audio": "919361428_427829_427830_35948",
+    "audio_filepath": "../Data/audio/phn/voices/919361428_427829_427830_35948.ogg",
+    "speaker": "919361428",
+    "transcript": "077 6721353"
+  },
+  {
+    "audio": "1878274529_427995_427996_35547",
+    "audio_filepath": "../Data/audio/phn/voices/1878274529_427995_427996_35547.ogg",
+    "speaker": "1878274529",
+    "transcript": "051 9789957"
+  },
+  {
+    "audio": "1878274529_428011_428012_35965",
+    "audio_filepath": "../Data/audio/phn/voices/1878274529_428011_428012_35965.ogg",
+    "speaker": "1878274529",
+    "transcript": "077 3843473"
+  },
+  {
+    "audio": "1878274529_428027_428028_35898",
+    "audio_filepath": "../Data/audio/phn/voices/1878274529_428027_428028_35898.ogg",
+    "speaker": "1878274529",
+    "transcript": "070 4786532"
+  },
+  {
+    "audio": "1082554792_428447_428448_35182",
+    "audio_filepath": "../Data/audio/phn/voices/1082554792_428447_428448_35182.ogg",
+    "speaker": "1082554792",
+    "transcript": "010 4859249"
+  },
+  {
+    "audio": "1043664892_428545_428546_35323",
+    "audio_filepath": "../Data/audio/phn/voices/1043664892_428545_428546_35323.ogg",
+    "speaker": "1043664892",
+    "transcript": "012 4232914"
+  },
+  {
+    "audio": "1043664892_428595_428596_35300",
+    "audio_filepath": "../Data/audio/phn/voices/1043664892_428595_428596_35300.ogg",
+    "speaker": "1043664892",
+    "transcript": "012 9429684"
+  },
+  {
+    "audio": "1043664892_428613_428614_36049",
+    "audio_filepath": "../Data/audio/phn/voices/1043664892_428613_428614_36049.ogg",
+    "speaker": "1043664892",
+    "transcript": "099 7328556"
+  },
+  {
+    "audio": "1043664892_428789_428790_35234",
+    "audio_filepath": "../Data/audio/phn/voices/1043664892_428789_428790_35234.ogg",
+    "speaker": "1043664892",
+    "transcript": "010 5634993"
+  },
+  {
+    "audio": "1043664892_428807_428808_35805",
+    "audio_filepath": "../Data/audio/phn/voices/1043664892_428807_428808_35805.ogg",
+    "speaker": "1043664892",
+    "transcript": "070 4518414"
+  },
+  {
+    "audio": "1043664892_428831_428832_35245",
+    "audio_filepath": "../Data/audio/phn/voices/1043664892_428831_428832_35245.ogg",
+    "speaker": "1043664892",
+    "transcript": "010 7498297"
+  },
+  {
+    "audio": "1043664892_428859_428860_35784",
+    "audio_filepath": "../Data/audio/phn/voices/1043664892_428859_428860_35784.ogg",
+    "speaker": "1043664892",
+    "transcript": "070 4676598"
+  },
+  {
+    "audio": "1043664892_429115_429116_35783",
+    "audio_filepath": "../Data/audio/phn/voices/1043664892_429115_429116_35783.ogg",
+    "speaker": "1043664892",
+    "transcript": "055 2368837"
+  },
+  {
+    "audio": "1043664892_429145_429146_35780",
+    "audio_filepath": "../Data/audio/phn/voices/1043664892_429145_429146_35780.ogg",
+    "speaker": "1043664892",
+    "transcript": "055 4577781"
+  },
+  {
+    "audio": "1043664892_429191_429192_35896",
+    "audio_filepath": "../Data/audio/phn/voices/1043664892_429191_429192_35896.ogg",
+    "speaker": "1043664892",
+    "transcript": "070 6229985"
+  },
+  {
+    "audio": "919361428_429243_429244_35519",
+    "audio_filepath": "../Data/audio/phn/voices/919361428_429243_429244_35519.ogg",
+    "speaker": "919361428",
+    "transcript": "050 7443114"
+  },
+  {
+    "audio": "919361428_429247_429248_35290",
+    "audio_filepath": "../Data/audio/phn/voices/919361428_429247_429248_35290.ogg",
+    "speaker": "919361428",
+    "transcript": "012 7744751"
+  },
+  {
+    "audio": "1043664892_429283_429286_35956",
+    "audio_filepath": "../Data/audio/phn/voices/1043664892_429283_429286_35956.ogg",
+    "speaker": "1043664892",
+    "transcript": "077 8426994"
+  },
+  {
+    "audio": "1043664892_429335_429339_35214",
+    "audio_filepath": "../Data/audio/phn/voices/1043664892_429335_429339_35214.ogg",
+    "speaker": "1043664892",
+    "transcript": "010 9992143"
+  },
+  {
+    "audio": "919361428_429506_429509_35579",
+    "audio_filepath": "../Data/audio/phn/voices/919361428_429506_429509_35579.ogg",
+    "speaker": "919361428",
+    "transcript": "051 7976111"
+  },
+  {
+    "audio": "919361428_429564_429568_35540",
+    "audio_filepath": "../Data/audio/phn/voices/919361428_429564_429568_35540.ogg",
+    "speaker": "919361428",
+    "transcript": "051 8649896"
+  },
+  {
+    "audio": "1043664892_429636_429637_35966",
+    "audio_filepath": "../Data/audio/phn/voices/1043664892_429636_429637_35966.ogg",
+    "speaker": "1043664892",
+    "transcript": "077 9583484"
+  },
+  {
+    "audio": "919361428_429634_429639_35964",
+    "audio_filepath": "../Data/audio/phn/voices/919361428_429634_429639_35964.ogg",
+    "speaker": "919361428",
+    "transcript": "077 8796946"
+  },
+  {
+    "audio": "919361428_429672_429675_35634",
+    "audio_filepath": "../Data/audio/phn/voices/919361428_429672_429675_35634.ogg",
+    "speaker": "919361428",
+    "transcript": "051 2469644"
+  },
+  {
+    "audio": "1043664892_429772_429773_35455",
+    "audio_filepath": "../Data/audio/phn/voices/1043664892_429772_429773_35455.ogg",
+    "speaker": "1043664892",
+    "transcript": "050 7599984"
+  },
+  {
+    "audio": "1043664892_429810_429815_35536",
+    "audio_filepath": "../Data/audio/phn/voices/1043664892_429810_429815_35536.ogg",
+    "speaker": "1043664892",
+    "transcript": "051 5317227"
+  },
+  {
+    "audio": "919361428_429890_429893_35744",
+    "audio_filepath": "../Data/audio/phn/voices/919361428_429890_429893_35744.ogg",
+    "speaker": "919361428",
+    "transcript": "055 9258644"
+  },
+  {
+    "audio": "1043664892_429908_429909_35326",
+    "audio_filepath": "../Data/audio/phn/voices/1043664892_429908_429909_35326.ogg",
+    "speaker": "1043664892",
+    "transcript": "012 5446557"
+  },
+  {
+    "audio": "919361428_429906_429911_35305",
+    "audio_filepath": "../Data/audio/phn/voices/919361428_429906_429911_35305.ogg",
+    "speaker": "919361428",
+    "transcript": "012 7477533"
+  },
+  {
+    "audio": "1043664892_429914_429918_35594",
+    "audio_filepath": "../Data/audio/phn/voices/1043664892_429914_429918_35594.ogg",
+    "speaker": "1043664892",
+    "transcript": "051 7567522"
+  },
+  {
+    "audio": "1043664892_429982_429989_35264",
+    "audio_filepath": "../Data/audio/phn/voices/1043664892_429982_429989_35264.ogg",
+    "speaker": "1043664892",
+    "transcript": "010 5733478"
+  },
+  {
+    "audio": "1043664892_430206_430207_35813",
+    "audio_filepath": "../Data/audio/phn/voices/1043664892_430206_430207_35813.ogg",
+    "speaker": "1043664892",
+    "transcript": "070 7618523"
+  },
+  {
+    "audio": "1043664892_430254_430255_35621",
+    "audio_filepath": "../Data/audio/phn/voices/1043664892_430254_430255_35621.ogg",
+    "speaker": "1043664892",
+    "transcript": "051 8475656"
+  },
+  {
+    "audio": "1043664892_430296_430297_35588",
+    "audio_filepath": "../Data/audio/phn/voices/1043664892_430296_430297_35588.ogg",
+    "speaker": "1043664892",
+    "transcript": "051 6257421"
+  },
+  {
+    "audio": "1043664892_430389_430390_35369",
+    "audio_filepath": "../Data/audio/phn/voices/1043664892_430389_430390_35369.ogg",
+    "speaker": "1043664892",
+    "transcript": "012 2764468"
+  },
+  {
+    "audio": "1043664892_430391_430392_35374",
+    "audio_filepath": "../Data/audio/phn/voices/1043664892_430391_430392_35374.ogg",
+    "speaker": "1043664892",
+    "transcript": "012 8237663"
+  },
+  {
+    "audio": "860296669_430459_430466_35618",
+    "audio_filepath": "../Data/audio/phn/voices/860296669_430459_430466_35618.ogg",
+    "speaker": "860296669",
+    "transcript": "051 7526636"
+  },
+  {
+    "audio": "860296669_430556_430557_36140",
+    "audio_filepath": "../Data/audio/phn/voices/860296669_430556_430557_36140.ogg",
+    "speaker": "860296669",
+    "transcript": "099 4562957"
+  },
+  {
+    "audio": "1043664892_430686_430689_35945",
+    "audio_filepath": "../Data/audio/phn/voices/1043664892_430686_430689_35945.ogg",
+    "speaker": "1043664892",
+    "transcript": "077 9998798"
+  },
+  {
+    "audio": "860296669_430849_430850_35363",
+    "audio_filepath": "../Data/audio/phn/voices/860296669_430849_430850_35363.ogg",
+    "speaker": "860296669",
+    "transcript": "012 3868617"
+  },
+  {
+    "audio": "860296669_430961_430962_35395",
+    "audio_filepath": "../Data/audio/phn/voices/860296669_430961_430962_35395.ogg",
+    "speaker": "860296669",
+    "transcript": "012 5992281"
+  },
+  {
+    "audio": "860296669_431059_431060_36093",
+    "audio_filepath": "../Data/audio/phn/voices/860296669_431059_431060_36093.ogg",
+    "speaker": "860296669",
+    "transcript": "099 2678814"
+  },
+  {
+    "audio": "763941567_431249_431251_35910",
+    "audio_filepath": "../Data/audio/phn/voices/763941567_431249_431251_35910.ogg",
+    "speaker": "763941567",
+    "transcript": "077 9827582"
+  },
+  {
+    "audio": "763941567_431294_431297_35854",
+    "audio_filepath": "../Data/audio/phn/voices/763941567_431294_431297_35854.ogg",
+    "speaker": "763941567",
+    "transcript": "070 7415149"
+  },
+  {
+    "audio": "763941567_431353_431354_36023",
+    "audio_filepath": "../Data/audio/phn/voices/763941567_431353_431354_36023.ogg",
+    "speaker": "763941567",
+    "transcript": "077 1417271"
+  },
+  {
+    "audio": "763941567_431437_431442_36051",
+    "audio_filepath": "../Data/audio/phn/voices/763941567_431437_431442_36051.ogg",
+    "speaker": "763941567",
+    "transcript": "099 7349477"
+  },
+  {
+    "audio": "1269496718_431465_431466_35398",
+    "audio_filepath": "../Data/audio/phn/voices/1269496718_431465_431466_35398.ogg",
+    "speaker": "1269496718",
+    "transcript": "012 7227145"
+  },
+  {
+    "audio": "1269496718_431477_431480_35560",
+    "audio_filepath": "../Data/audio/phn/voices/1269496718_431477_431480_35560.ogg",
+    "speaker": "1269496718",
+    "transcript": "051 5632899"
+  },
+  {
+    "audio": "1269496718_431499_431502_35475",
+    "audio_filepath": "../Data/audio/phn/voices/1269496718_431499_431502_35475.ogg",
+    "speaker": "1269496718",
+    "transcript": "050 3759646"
+  },
+  {
+    "audio": "763941567_431551_431553_35723",
+    "audio_filepath": "../Data/audio/phn/voices/763941567_431551_431553_35723.ogg",
+    "speaker": "763941567",
+    "transcript": "055 4895736"
+  },
+  {
+    "audio": "763941567_431585_431588_35188",
+    "audio_filepath": "../Data/audio/phn/voices/763941567_431585_431588_35188.ogg",
+    "speaker": "763941567",
+    "transcript": "010 1213513"
+  },
+  {
+    "audio": "763941567_431663_431668_35539",
+    "audio_filepath": "../Data/audio/phn/voices/763941567_431663_431668_35539.ogg",
+    "speaker": "763941567",
+    "transcript": "051 4721436"
+  },
+  {
+    "audio": "763941567_431687_431690_35324",
+    "audio_filepath": "../Data/audio/phn/voices/763941567_431687_431690_35324.ogg",
+    "speaker": "763941567",
+    "transcript": "012 3297161"
+  },
+  {
+    "audio": "763941567_431761_431764_36015",
+    "audio_filepath": "../Data/audio/phn/voices/763941567_431761_431764_36015.ogg",
+    "speaker": "763941567",
+    "transcript": "077 8521421"
+  },
+  {
+    "audio": "1269496718_431767_431770_35969",
+    "audio_filepath": "../Data/audio/phn/voices/1269496718_431767_431770_35969.ogg",
+    "speaker": "1269496718",
+    "transcript": "077 7748182"
+  },
+  {
+    "audio": "1269496718_431929_431930_35652",
+    "audio_filepath": "../Data/audio/phn/voices/1269496718_431929_431930_35652.ogg",
+    "speaker": "1269496718",
+    "transcript": "051 1883832"
+  },
+  {
+    "audio": "1269496718_431998_431999_35882",
+    "audio_filepath": "../Data/audio/phn/voices/1269496718_431998_431999_35882.ogg",
+    "speaker": "1269496718",
+    "transcript": "070 6916338"
+  },
+  {
+    "audio": "1269496718_432069_432070_35310",
+    "audio_filepath": "../Data/audio/phn/voices/1269496718_432069_432070_35310.ogg",
+    "speaker": "1269496718",
+    "transcript": "012 1661358"
+  },
+  {
+    "audio": "1269496718_432091_432092_35801",
+    "audio_filepath": "../Data/audio/phn/voices/1269496718_432091_432092_35801.ogg",
+    "speaker": "1269496718",
+    "transcript": "070 6374336"
+  },
+  {
+    "audio": "1269496718_432175_432176_35223",
+    "audio_filepath": "../Data/audio/phn/voices/1269496718_432175_432176_35223.ogg",
+    "speaker": "1269496718",
+    "transcript": "010 4426182"
+  },
+  {
+    "audio": "1269496718_432181_432182_35900",
+    "audio_filepath": "../Data/audio/phn/voices/1269496718_432181_432182_35900.ogg",
+    "speaker": "1269496718",
+    "transcript": "070 4341529"
+  },
+  {
+    "audio": "763941567_432451_432456_35373",
+    "audio_filepath": "../Data/audio/phn/voices/763941567_432451_432456_35373.ogg",
+    "speaker": "763941567",
+    "transcript": "012 2641335"
+  },
+  {
+    "audio": "763941567_432569_432570_35842",
+    "audio_filepath": "../Data/audio/phn/voices/763941567_432569_432570_35842.ogg",
+    "speaker": "763941567",
+    "transcript": "070 6673657"
+  },
+  {
+    "audio": "1051072005_432643_432646_36074",
+    "audio_filepath": "../Data/audio/phn/voices/1051072005_432643_432646_36074.ogg",
+    "speaker": "1051072005",
+    "transcript": "099 6394418"
+  },
+  {
+    "audio": "1051072005_432671_432674_35698",
+    "audio_filepath": "../Data/audio/phn/voices/1051072005_432671_432674_35698.ogg",
+    "speaker": "1051072005",
+    "transcript": "055 9682941"
+  },
+  {
+    "audio": "1051072005_432723_432726_35930",
+    "audio_filepath": "../Data/audio/phn/voices/1051072005_432723_432726_35930.ogg",
+    "speaker": "1051072005",
+    "transcript": "077 3448283"
+  },
+  {
+    "audio": "954206432_432739_432743_35919",
+    "audio_filepath": "../Data/audio/phn/voices/954206432_432739_432743_35919.ogg",
+    "speaker": "954206432",
+    "transcript": "077 1158411"
+  },
+  {
+    "audio": "954206432_432773_432780_35839",
+    "audio_filepath": "../Data/audio/phn/voices/954206432_432773_432780_35839.ogg",
+    "speaker": "954206432",
+    "transcript": "070 4499138"
+  },
+  {
+    "audio": "1051072005_432821_432824_36030",
+    "audio_filepath": "../Data/audio/phn/voices/1051072005_432821_432824_36030.ogg",
+    "speaker": "1051072005",
+    "transcript": "077 8489396"
+  },
+  {
+    "audio": "954206432_432831_432837_35993",
+    "audio_filepath": "../Data/audio/phn/voices/954206432_432831_432837_35993.ogg",
+    "speaker": "954206432",
+    "transcript": "077 5778783"
+  },
+  {
+    "audio": "1051072005_433017_433018_35293",
+    "audio_filepath": "../Data/audio/phn/voices/1051072005_433017_433018_35293.ogg",
+    "speaker": "1051072005",
+    "transcript": "012 4983614"
+  },
+  {
+    "audio": "1269496718_433133_433134_35493",
+    "audio_filepath": "../Data/audio/phn/voices/1269496718_433133_433134_35493.ogg",
+    "speaker": "1269496718",
+    "transcript": "050 3448135"
+  },
+  {
+    "audio": "1269496718_433191_433194_35657",
+    "audio_filepath": "../Data/audio/phn/voices/1269496718_433191_433194_35657.ogg",
+    "speaker": "1269496718",
+    "transcript": "051 9449953"
+  },
+  {
+    "audio": "1269496718_433229_433236_35438",
+    "audio_filepath": "../Data/audio/phn/voices/1269496718_433229_433236_35438.ogg",
+    "speaker": "1269496718",
+    "transcript": "050 7829245"
+  },
+  {
+    "audio": "912272968_433468_433471_35981",
+    "audio_filepath": "../Data/audio/phn/voices/912272968_433468_433471_35981.ogg",
+    "speaker": "912272968",
+    "transcript": "077 1981142"
+  },
+  {
+    "audio": "1269496718_433612_433614_35650",
+    "audio_filepath": "../Data/audio/phn/voices/1269496718_433612_433614_35650.ogg",
+    "speaker": "1269496718",
+    "transcript": "051 6497968"
+  },
+  {
+    "audio": "912272968_433635_433638_35520",
+    "audio_filepath": "../Data/audio/phn/voices/912272968_433635_433638_35520.ogg",
+    "speaker": "912272968",
+    "transcript": "050 6565563"
+  },
+  {
+    "audio": "912272968_433743_433748_35531",
+    "audio_filepath": "../Data/audio/phn/voices/912272968_433743_433748_35531.ogg",
+    "speaker": "912272968",
+    "transcript": "050 5946586"
+  },
+  {
+    "audio": "1269496718_433795_433800_35828",
+    "audio_filepath": "../Data/audio/phn/voices/1269496718_433795_433800_35828.ogg",
+    "speaker": "1269496718",
+    "transcript": "070 7229888"
+  },
+  {
+    "audio": "1269496718_433903_433904_35620",
+    "audio_filepath": "../Data/audio/phn/voices/1269496718_433903_433904_35620.ogg",
+    "speaker": "1269496718",
+    "transcript": "051 1968283"
+  },
+  {
+    "audio": "912272968_433955_433958_35899",
+    "audio_filepath": "../Data/audio/phn/voices/912272968_433955_433958_35899.ogg",
+    "speaker": "912272968",
+    "transcript": "070 9468874"
+  },
+  {
+    "audio": "954206432_434014_434018_35367",
+    "audio_filepath": "../Data/audio/phn/voices/954206432_434014_434018_35367.ogg",
+    "speaker": "954206432",
+    "transcript": "012 3463172"
+  },
+  {
+    "audio": "912272968_434110_434113_35458",
+    "audio_filepath": "../Data/audio/phn/voices/912272968_434110_434113_35458.ogg",
+    "speaker": "912272968",
+    "transcript": "050 2174177"
+  },
+  {
+    "audio": "1051072005_434292_434293_35274",
+    "audio_filepath": "../Data/audio/phn/voices/1051072005_434292_434293_35274.ogg",
+    "speaker": "1051072005",
+    "transcript": "010 5626279"
+  },
+  {
+    "audio": "912272968_434339_434340_35349",
+    "audio_filepath": "../Data/audio/phn/voices/912272968_434339_434340_35349.ogg",
+    "speaker": "912272968",
+    "transcript": "012 6274726"
+  },
+  {
+    "audio": "1051072005_434565_434566_35396",
+    "audio_filepath": "../Data/audio/phn/voices/1051072005_434565_434566_35396.ogg",
+    "speaker": "1051072005",
+    "transcript": "012 6136565"
+  },
+  {
+    "audio": "1051072005_434721_434722_35632",
+    "audio_filepath": "../Data/audio/phn/voices/1051072005_434721_434722_35632.ogg",
+    "speaker": "1051072005",
+    "transcript": "051 2785315"
+  },
+  {
+    "audio": "568204248_434909_434910_35764",
+    "audio_filepath": "../Data/audio/phn/voices/568204248_434909_434910_35764.ogg",
+    "speaker": "568204248",
+    "transcript": "055 7683917"
+  },
+  {
+    "audio": "568204248_434949_434950_35254",
+    "audio_filepath": "../Data/audio/phn/voices/568204248_434949_434950_35254.ogg",
+    "speaker": "568204248",
+    "transcript": "010 4519528"
+  },
+  {
+    "audio": "912272968_434973_434978_35840",
+    "audio_filepath": "../Data/audio/phn/voices/912272968_434973_434978_35840.ogg",
+    "speaker": "912272968",
+    "transcript": "070 6851266"
+  },
+  {
+    "audio": "568204248_435046_435049_35379",
+    "audio_filepath": "../Data/audio/phn/voices/568204248_435046_435049_35379.ogg",
+    "speaker": "568204248",
+    "transcript": "012 8439496"
+  },
+  {
+    "audio": "912272968_435083_435086_35353",
+    "audio_filepath": "../Data/audio/phn/voices/912272968_435083_435086_35353.ogg",
+    "speaker": "912272968",
+    "transcript": "012 2928854"
+  },
+  {
+    "audio": "619589413_435369_435374_35336",
+    "audio_filepath": "../Data/audio/phn/voices/619589413_435369_435374_35336.ogg",
+    "speaker": "619589413",
+    "transcript": "012 6737484"
+  },
+  {
+    "audio": "341881303_435444_435465_35944",
+    "audio_filepath": "../Data/audio/phn/voices/341881303_435444_435465_35944.ogg",
+    "speaker": "341881303",
+    "transcript": "077 3113432"
+  },
+  {
+    "audio": "341881303_435527_435539_35877",
+    "audio_filepath": "../Data/audio/phn/voices/341881303_435527_435539_35877.ogg",
+    "speaker": "341881303",
+    "transcript": "070 3512318"
+  },
+  {
+    "audio": "860296669_435593_435609_35486",
+    "audio_filepath": "../Data/audio/phn/voices/860296669_435593_435609_35486.ogg",
+    "speaker": "860296669",
+    "transcript": "050 3488348"
+  },
+  {
+    "audio": "1269496718_435766_435775_35727",
+    "audio_filepath": "../Data/audio/phn/voices/1269496718_435766_435775_35727.ogg",
+    "speaker": "1269496718",
+    "transcript": "055 5999591"
+  },
+  {
+    "audio": "568204248_435789_435797_35330",
+    "audio_filepath": "../Data/audio/phn/voices/568204248_435789_435797_35330.ogg",
+    "speaker": "568204248",
+    "transcript": "012 4119459"
+  },
+  {
+    "audio": "1269496718_435864_435869_35602",
+    "audio_filepath": "../Data/audio/phn/voices/1269496718_435864_435869_35602.ogg",
+    "speaker": "1269496718",
+    "transcript": "051 2421973"
+  },
+  {
+    "audio": "619589413_435865_435878_35454",
+    "audio_filepath": "../Data/audio/phn/voices/619589413_435865_435878_35454.ogg",
+    "speaker": "619589413",
+    "transcript": "050 6214882"
+  },
+  {
+    "audio": "568204248_435920_435924_35476",
+    "audio_filepath": "../Data/audio/phn/voices/568204248_435920_435924_35476.ogg",
+    "speaker": "568204248",
+    "transcript": "050 1854328"
+  },
+  {
+    "audio": "619589413_436272_436280_35575",
+    "audio_filepath": "../Data/audio/phn/voices/619589413_436272_436280_35575.ogg",
+    "speaker": "619589413",
+    "transcript": "051 6113364"
+  },
+  {
+    "audio": "619589413_436540_436548_36082",
+    "audio_filepath": "../Data/audio/phn/voices/619589413_436540_436548_36082.ogg",
+    "speaker": "619589413",
+    "transcript": "099 1278472"
+  },
+  {
+    "audio": "860296669_436562_436570_35596",
+    "audio_filepath": "../Data/audio/phn/voices/860296669_436562_436570_35596.ogg",
+    "speaker": "860296669",
+    "transcript": "051 4616186"
+  },
+  {
+    "audio": "619589413_436721_436731_36029",
+    "audio_filepath": "../Data/audio/phn/voices/619589413_436721_436731_36029.ogg",
+    "speaker": "619589413",
+    "transcript": "077 6878996"
+  },
+  {
+    "audio": "912272968_436744_436755_35989",
+    "audio_filepath": "../Data/audio/phn/voices/912272968_436744_436755_35989.ogg",
+    "speaker": "912272968",
+    "transcript": "077 9845723"
+  },
+  {
+    "audio": "1269496718_436750_436758_35278",
+    "audio_filepath": "../Data/audio/phn/voices/1269496718_436750_436758_35278.ogg",
+    "speaker": "1269496718",
+    "transcript": "010 3598869"
+  },
+  {
+    "audio": "619589413_436760_436768_36117",
+    "audio_filepath": "../Data/audio/phn/voices/619589413_436760_436768_36117.ogg",
+    "speaker": "619589413",
+    "transcript": "099 7157781"
+  },
+  {
+    "audio": "1269496718_436769_436778_35303",
+    "audio_filepath": "../Data/audio/phn/voices/1269496718_436769_436778_35303.ogg",
+    "speaker": "1269496718",
+    "transcript": "012 4387258"
+  },
+  {
+    "audio": "619589413_436828_436831_35940",
+    "audio_filepath": "../Data/audio/phn/voices/619589413_436828_436831_35940.ogg",
+    "speaker": "619589413",
+    "transcript": "077 5583358"
+  },
+  {
+    "audio": "568204248_436819_436832_35884",
+    "audio_filepath": "../Data/audio/phn/voices/568204248_436819_436832_35884.ogg",
+    "speaker": "568204248",
+    "transcript": "070 3969871"
+  },
+  {
+    "audio": "1269496718_436859_436868_35212",
+    "audio_filepath": "../Data/audio/phn/voices/1269496718_436859_436868_35212.ogg",
+    "speaker": "1269496718",
+    "transcript": "010 1352463"
+  },
+  {
+    "audio": "912272968_437129_437146_36010",
+    "audio_filepath": "../Data/audio/phn/voices/912272968_437129_437146_36010.ogg",
+    "speaker": "912272968",
+    "transcript": "077 4213658"
+  },
+  {
+    "audio": "568204248_437168_437181_36151",
+    "audio_filepath": "../Data/audio/phn/voices/568204248_437168_437181_36151.ogg",
+    "speaker": "568204248",
+    "transcript": "099 3737933"
+  },
+  {
+    "audio": "568204248_437288_437292_35762",
+    "audio_filepath": "../Data/audio/phn/voices/568204248_437288_437292_35762.ogg",
+    "speaker": "568204248",
+    "transcript": "055 5618543"
+  },
+  {
+    "audio": "341881303_437352_437373_35545",
+    "audio_filepath": "../Data/audio/phn/voices/341881303_437352_437373_35545.ogg",
+    "speaker": "341881303",
+    "transcript": "051 5541565"
+  },
+  {
+    "audio": "568204248_437438_437443_36155",
+    "audio_filepath": "../Data/audio/phn/voices/568204248_437438_437443_36155.ogg",
+    "speaker": "568204248",
+    "transcript": "099 8461691"
+  },
+  {
+    "audio": "568204248_437502_437513_35992",
+    "audio_filepath": "../Data/audio/phn/voices/568204248_437502_437513_35992.ogg",
+    "speaker": "568204248",
+    "transcript": "077 3882637"
+  },
+  {
+    "audio": "341881303_437512_437521_35193",
+    "audio_filepath": "../Data/audio/phn/voices/341881303_437512_437521_35193.ogg",
+    "speaker": "341881303",
+    "transcript": "010 6555315"
+  },
+  {
+    "audio": "619589413_437595_437601_35821",
+    "audio_filepath": "../Data/audio/phn/voices/619589413_437595_437601_35821.ogg",
+    "speaker": "619589413",
+    "transcript": "070 8468139"
+  },
+  {
+    "audio": "568204248_437668_437677_35357",
+    "audio_filepath": "../Data/audio/phn/voices/568204248_437668_437677_35357.ogg",
+    "speaker": "568204248",
+    "transcript": "012 8893141"
+  },
+  {
+    "audio": "568204248_437841_437845_35970",
+    "audio_filepath": "../Data/audio/phn/voices/568204248_437841_437845_35970.ogg",
+    "speaker": "568204248",
+    "transcript": "077 2212148"
+  },
+  {
+    "audio": "341881303_437980_437988_35760",
+    "audio_filepath": "../Data/audio/phn/voices/341881303_437980_437988_35760.ogg",
+    "speaker": "341881303",
+    "transcript": "055 4294598"
+  },
+  {
+    "audio": "568204248_438006_438011_35568",
+    "audio_filepath": "../Data/audio/phn/voices/568204248_438006_438011_35568.ogg",
+    "speaker": "568204248",
+    "transcript": "051 2377245"
+  },
+  {
+    "audio": "912272968_438078_438085_35717",
+    "audio_filepath": "../Data/audio/phn/voices/912272968_438078_438085_35717.ogg",
+    "speaker": "912272968",
+    "transcript": "055 2378277"
+  },
+  {
+    "audio": "341881303_438138_438147_35814",
+    "audio_filepath": "../Data/audio/phn/voices/341881303_438138_438147_35814.ogg",
+    "speaker": "341881303",
+    "transcript": "070 1334797"
+  },
+  {
+    "audio": "341881303_438224_438231_35606",
+    "audio_filepath": "../Data/audio/phn/voices/341881303_438224_438231_35606.ogg",
+    "speaker": "341881303",
+    "transcript": "051 9588396"
+  },
+  {
+    "audio": "341881303_438244_438250_35275",
+    "audio_filepath": "../Data/audio/phn/voices/341881303_438244_438250_35275.ogg",
+    "speaker": "341881303",
+    "transcript": "010 8365488"
+  },
+  {
+    "audio": "568204248_438353_438356_35284",
+    "audio_filepath": "../Data/audio/phn/voices/568204248_438353_438356_35284.ogg",
+    "speaker": "568204248",
+    "transcript": "010 8843315"
+  },
+  {
+    "audio": "568204248_438357_438358_35402",
+    "audio_filepath": "../Data/audio/phn/voices/568204248_438357_438358_35402.ogg",
+    "speaker": "568204248",
+    "transcript": "012 5851526"
+  },
+  {
+    "audio": "568204248_438359_438363_35294",
+    "audio_filepath": "../Data/audio/phn/voices/568204248_438359_438363_35294.ogg",
+    "speaker": "568204248",
+    "transcript": "012 7178427"
+  },
+  {
+    "audio": "568204248_438502_438505_36092",
+    "audio_filepath": "../Data/audio/phn/voices/568204248_438502_438505_36092.ogg",
+    "speaker": "568204248",
+    "transcript": "099 9423377"
+  },
+  {
+    "audio": "568204248_438692_438695_35221",
+    "audio_filepath": "../Data/audio/phn/voices/568204248_438692_438695_35221.ogg",
+    "speaker": "568204248",
+    "transcript": "010 5919586"
+  },
+  {
+    "audio": "568204248_438744_438747_36019",
+    "audio_filepath": "../Data/audio/phn/voices/568204248_438744_438747_36019.ogg",
+    "speaker": "568204248",
+    "transcript": "077 8854363"
+  },
+  {
+    "audio": "341881303_438741_438753_36078",
+    "audio_filepath": "../Data/audio/phn/voices/341881303_438741_438753_36078.ogg",
+    "speaker": "341881303",
+    "transcript": "099 3833761"
+  },
+  {
+    "audio": "568204248_438806_438815_36100",
+    "audio_filepath": "../Data/audio/phn/voices/568204248_438806_438815_36100.ogg",
+    "speaker": "568204248",
+    "transcript": "099 5982141"
+  },
+  {
+    "audio": "568204248_438870_438875_36017",
+    "audio_filepath": "../Data/audio/phn/voices/568204248_438870_438875_36017.ogg",
+    "speaker": "568204248",
+    "transcript": "077 7352867"
+  },
+  {
+    "audio": "341881303_438936_438944_36042",
+    "audio_filepath": "../Data/audio/phn/voices/341881303_438936_438944_36042.ogg",
+    "speaker": "341881303",
+    "transcript": "099 6967978"
+  },
+  {
+    "audio": "619589413_438992_438997_35997",
+    "audio_filepath": "../Data/audio/phn/voices/619589413_438992_438997_35997.ogg",
+    "speaker": "619589413",
+    "transcript": "077 6655736"
+  },
+  {
+    "audio": "341881303_439110_439114_35419",
+    "audio_filepath": "../Data/audio/phn/voices/341881303_439110_439114_35419.ogg",
+    "speaker": "341881303",
+    "transcript": "050 4837332"
+  },
+  {
+    "audio": "568204248_439472_439475_35222",
+    "audio_filepath": "../Data/audio/phn/voices/568204248_439472_439475_35222.ogg",
+    "speaker": "568204248",
+    "transcript": "010 9543872"
+  },
+  {
+    "audio": "619589413_439474_439478_35387",
+    "audio_filepath": "../Data/audio/phn/voices/619589413_439474_439478_35387.ogg",
+    "speaker": "619589413",
+    "transcript": "012 1364399"
+  },
+  {
+    "audio": "619589413_439480_439483_35908",
+    "audio_filepath": "../Data/audio/phn/voices/619589413_439480_439483_35908.ogg",
+    "speaker": "619589413",
+    "transcript": "077 3391784"
+  },
+  {
+    "audio": "568204248_439650_439652_35627",
+    "audio_filepath": "../Data/audio/phn/voices/568204248_439650_439652_35627.ogg",
+    "speaker": "568204248",
+    "transcript": "051 1895417"
+  },
+  {
+    "audio": "619589413_439814_439817_35860",
+    "audio_filepath": "../Data/audio/phn/voices/619589413_439814_439817_35860.ogg",
+    "speaker": "619589413",
+    "transcript": "070 3469295"
+  },
+  {
+    "audio": "568204248_439848_439850_35974",
+    "audio_filepath": "../Data/audio/phn/voices/568204248_439848_439850_35974.ogg",
+    "speaker": "568204248",
+    "transcript": "077 1254291"
+  },
+  {
+    "audio": "619589413_439920_439921_35397",
+    "audio_filepath": "../Data/audio/phn/voices/619589413_439920_439921_35397.ogg",
+    "speaker": "619589413",
+    "transcript": "012 7495946"
+  },
+  {
+    "audio": "341881303_440044_440050_35297",
+    "audio_filepath": "../Data/audio/phn/voices/341881303_440044_440050_35297.ogg",
+    "speaker": "341881303",
+    "transcript": "012 9451944"
+  },
+  {
+    "audio": "341881303_440070_440075_35765",
+    "audio_filepath": "../Data/audio/phn/voices/341881303_440070_440075_35765.ogg",
+    "speaker": "341881303",
+    "transcript": "055 6265899"
+  },
+  {
+    "audio": "619589413_440225_440228_35979",
+    "audio_filepath": "../Data/audio/phn/voices/619589413_440225_440228_35979.ogg",
+    "speaker": "619589413",
+    "transcript": "077 2677293"
+  },
+  {
+    "audio": "568204248_440320_440325_35358",
+    "audio_filepath": "../Data/audio/phn/voices/568204248_440320_440325_35358.ogg",
+    "speaker": "568204248",
+    "transcript": "012 6574727"
+  },
+  {
+    "audio": "341881303_440416_440424_35857",
+    "audio_filepath": "../Data/audio/phn/voices/341881303_440416_440424_35857.ogg",
+    "speaker": "341881303",
+    "transcript": "070 8634422"
+  },
+  {
+    "audio": "568204248_440425_440431_35855",
+    "audio_filepath": "../Data/audio/phn/voices/568204248_440425_440431_35855.ogg",
+    "speaker": "568204248",
+    "transcript": "070 5486268"
+  },
+  {
+    "audio": "341881303_440585_440588_35406",
+    "audio_filepath": "../Data/audio/phn/voices/341881303_440585_440588_35406.ogg",
+    "speaker": "341881303",
+    "transcript": "012 8854425"
+  },
+  {
+    "audio": "619589413_440684_440687_35921",
+    "audio_filepath": "../Data/audio/phn/voices/619589413_440684_440687_35921.ogg",
+    "speaker": "619589413",
+    "transcript": "077 2316722"
+  },
+  {
+    "audio": "341881303_440760_440784_35593",
+    "audio_filepath": "../Data/audio/phn/voices/341881303_440760_440784_35593.ogg",
+    "speaker": "341881303",
+    "transcript": "051 1626385"
+  },
+  {
+    "audio": "619589413_440803_440804_35662",
+    "audio_filepath": "../Data/audio/phn/voices/619589413_440803_440804_35662.ogg",
+    "speaker": "619589413",
+    "transcript": "055 9253937"
+  },
+  {
+    "audio": "619589413_440902_440905_35999",
+    "audio_filepath": "../Data/audio/phn/voices/619589413_440902_440905_35999.ogg",
+    "speaker": "619589413",
+    "transcript": "077 9937582"
+  },
+  {
+    "audio": "341881303_440904_440907_35427",
+    "audio_filepath": "../Data/audio/phn/voices/341881303_440904_440907_35427.ogg",
+    "speaker": "341881303",
+    "transcript": "050 2565494"
+  },
+  {
+    "audio": "619589413_440906_440909_36152",
+    "audio_filepath": "../Data/audio/phn/voices/619589413_440906_440909_36152.ogg",
+    "speaker": "619589413",
+    "transcript": "099 8672468"
+  },
+  {
+    "audio": "619589413_440920_440923_35844",
+    "audio_filepath": "../Data/audio/phn/voices/619589413_440920_440923_35844.ogg",
+    "speaker": "619589413",
+    "transcript": "070 3422372"
+  },
+  {
+    "audio": "341881303_441016_441019_35846",
+    "audio_filepath": "../Data/audio/phn/voices/341881303_441016_441019_35846.ogg",
+    "speaker": "341881303",
+    "transcript": "070 8157236"
+  },
+  {
+    "audio": "341881303_441046_441047_35558",
+    "audio_filepath": "../Data/audio/phn/voices/341881303_441046_441047_35558.ogg",
+    "speaker": "341881303",
+    "transcript": "051 3765457"
+  },
+  {
+    "audio": "341881303_441094_441095_35984",
+    "audio_filepath": "../Data/audio/phn/voices/341881303_441094_441095_35984.ogg",
+    "speaker": "341881303",
+    "transcript": "077 9273374"
+  },
+  {
+    "audio": "341881303_441104_441109_35713",
+    "audio_filepath": "../Data/audio/phn/voices/341881303_441104_441109_35713.ogg",
+    "speaker": "341881303",
+    "transcript": "055 9733591"
+  },
+  {
+    "audio": "341881303_441211_441213_35316",
+    "audio_filepath": "../Data/audio/phn/voices/341881303_441211_441213_35316.ogg",
+    "speaker": "341881303",
+    "transcript": "012 3582924"
+  },
+  {
+    "audio": "1269496718_441330_441336_35942",
+    "audio_filepath": "../Data/audio/phn/voices/1269496718_441330_441336_35942.ogg",
+    "speaker": "1269496718",
+    "transcript": "077 1648846"
+  },
+  {
+    "audio": "619589413_441457_441458_35664",
+    "audio_filepath": "../Data/audio/phn/voices/619589413_441457_441458_35664.ogg",
+    "speaker": "619589413",
+    "transcript": "055 1653117"
+  },
+  {
+    "audio": "619589413_441726_441729_35428",
+    "audio_filepath": "../Data/audio/phn/voices/619589413_441726_441729_35428.ogg",
+    "speaker": "619589413",
+    "transcript": "050 1236193"
+  },
+  {
+    "audio": "341881303_441817_441823_35462",
+    "audio_filepath": "../Data/audio/phn/voices/341881303_441817_441823_35462.ogg",
+    "speaker": "341881303",
+    "transcript": "050 7335459"
+  },
+  {
+    "audio": "1269496718_441936_441939_35302",
+    "audio_filepath": "../Data/audio/phn/voices/1269496718_441936_441939_35302.ogg",
+    "speaker": "1269496718",
+    "transcript": "012 5978663"
+  },
+  {
+    "audio": "1269496718_442044_442051_36088",
+    "audio_filepath": "../Data/audio/phn/voices/1269496718_442044_442051_36088.ogg",
+    "speaker": "1269496718",
+    "transcript": "099 3997651"
+  },
+  {
+    "audio": "1269496718_442074_442079_35653",
+    "audio_filepath": "../Data/audio/phn/voices/1269496718_442074_442079_35653.ogg",
+    "speaker": "1269496718",
+    "transcript": "051 2376837"
+  },
+  {
+    "audio": "1269496718_442145_442150_35241",
+    "audio_filepath": "../Data/audio/phn/voices/1269496718_442145_442150_35241.ogg",
+    "speaker": "1269496718",
+    "transcript": "010 2814672"
+  },
+  {
+    "audio": "1269496718_442157_442160_35571",
+    "audio_filepath": "../Data/audio/phn/voices/1269496718_442157_442160_35571.ogg",
+    "speaker": "1269496718",
+    "transcript": "051 9859324"
+  },
+  {
+    "audio": "1269496718_442200_442201_35308",
+    "audio_filepath": "../Data/audio/phn/voices/1269496718_442200_442201_35308.ogg",
+    "speaker": "1269496718",
+    "transcript": "012 5573652"
+  },
+  {
+    "audio": "1269496718_442234_442236_35541",
+    "audio_filepath": "../Data/audio/phn/voices/1269496718_442234_442236_35541.ogg",
+    "speaker": "1269496718",
+    "transcript": "051 3375252"
+  },
+  {
+    "audio": "1269496718_442256_442257_35184",
+    "audio_filepath": "../Data/audio/phn/voices/1269496718_442256_442257_35184.ogg",
+    "speaker": "1269496718",
+    "transcript": "010 6155728"
+  },
+  {
+    "audio": "341881303_442387_442392_35356",
+    "audio_filepath": "../Data/audio/phn/voices/341881303_442387_442392_35356.ogg",
+    "speaker": "341881303",
+    "transcript": "012 3527276"
+  },
+  {
+    "audio": "1269496718_442440_442443_35425",
+    "audio_filepath": "../Data/audio/phn/voices/1269496718_442440_442443_35425.ogg",
+    "speaker": "1269496718",
+    "transcript": "050 4297159"
+  },
+  {
+    "audio": "341881303_442488_442489_35858",
+    "audio_filepath": "../Data/audio/phn/voices/341881303_442488_442489_35858.ogg",
+    "speaker": "341881303",
+    "transcript": "070 9758693"
+  },
+  {
+    "audio": "1013880018_442673_442678_35745",
+    "audio_filepath": "../Data/audio/phn/voices/1013880018_442673_442678_35745.ogg",
+    "speaker": "1013880018",
+    "transcript": "055 1491687"
+  },
+  {
+    "audio": "1347919237_442929_442930_35514",
+    "audio_filepath": "../Data/audio/phn/voices/1347919237_442929_442930_35514.ogg",
+    "speaker": "1347919237",
+    "transcript": "050 7588421"
+  },
+  {
+    "audio": "1201653758_443020_443021_36009",
+    "audio_filepath": "../Data/audio/phn/voices/1201653758_443020_443021_36009.ogg",
+    "speaker": "1201653758",
+    "transcript": "077 7455118"
+  },
+  {
+    "audio": "1201653758_443040_443041_36065",
+    "audio_filepath": "../Data/audio/phn/voices/1201653758_443040_443041_36065.ogg",
+    "speaker": "1201653758",
+    "transcript": "099 5133149"
+  },
+  {
+    "audio": "5196964268_443217_443221_35983",
+    "audio_filepath": "../Data/audio/phn/voices/5196964268_443217_443221_35983.ogg",
+    "speaker": "5196964268",
+    "transcript": "077 7314347"
+  },
+  {
+    "audio": "5196964268_443396_443397_35563",
+    "audio_filepath": "../Data/audio/phn/voices/5196964268_443396_443397_35563.ogg",
+    "speaker": "5196964268",
+    "transcript": "051 3611319"
+  },
+  {
+    "audio": "5196964268_443552_443553_35562",
+    "audio_filepath": "../Data/audio/phn/voices/5196964268_443552_443553_35562.ogg",
+    "speaker": "5196964268",
+    "transcript": "051 5132757"
+  },
+  {
+    "audio": "1051072005_444073_444074_35941",
+    "audio_filepath": "../Data/audio/phn/voices/1051072005_444073_444074_35941.ogg",
+    "speaker": "1051072005",
+    "transcript": "077 8311662"
+  },
+  {
+    "audio": "1051072005_444131_444132_35820",
+    "audio_filepath": "../Data/audio/phn/voices/1051072005_444131_444132_35820.ogg",
+    "speaker": "1051072005",
+    "transcript": "070 5359399"
+  },
+  {
+    "audio": "1051072005_444226_444227_35794",
+    "audio_filepath": "../Data/audio/phn/voices/1051072005_444226_444227_35794.ogg",
+    "speaker": "1051072005",
+    "transcript": "070 1557845"
+  },
+  {
+    "audio": "1051072005_444232_444233_35832",
+    "audio_filepath": "../Data/audio/phn/voices/1051072005_444232_444233_35832.ogg",
+    "speaker": "1051072005",
+    "transcript": "070 4423793"
+  },
+  {
+    "audio": "1051072005_444324_444325_35187",
+    "audio_filepath": "../Data/audio/phn/voices/1051072005_444324_444325_35187.ogg",
+    "speaker": "1051072005",
+    "transcript": "010 6736426"
+  },
+  {
+    "audio": "1051072005_444348_444349_35810",
+    "audio_filepath": "../Data/audio/phn/voices/1051072005_444348_444349_35810.ogg",
+    "speaker": "1051072005",
+    "transcript": "070 5859839"
+  },
+  {
+    "audio": "575298922_444646_444647_35392",
+    "audio_filepath": "../Data/audio/phn/voices/575298922_444646_444647_35392.ogg",
+    "speaker": "575298922",
+    "transcript": "012 3691555"
+  },
+  {
+    "audio": "539261624_428330_444653_36079",
+    "audio_filepath": "../Data/audio/phn/voices/539261624_428330_444653_36079.ogg",
+    "speaker": "539261624",
+    "transcript": "099 1574738"
+  },
+  {
+    "audio": "539261624_444662_444669_35567",
+    "audio_filepath": "../Data/audio/phn/voices/539261624_444662_444669_35567.ogg",
+    "speaker": "539261624",
+    "transcript": "051 4634278"
+  },
+  {
+    "audio": "1043664892_444783_444784_35346",
+    "audio_filepath": "../Data/audio/phn/voices/1043664892_444783_444784_35346.ogg",
+    "speaker": "1043664892",
+    "transcript": "012 9558324"
+  },
+  {
+    "audio": "1043664892_444804_444805_35980",
+    "audio_filepath": "../Data/audio/phn/voices/1043664892_444804_444805_35980.ogg",
+    "speaker": "1043664892",
+    "transcript": "077 5138493"
+  },
+  {
+    "audio": "1043664892_444857_444858_35658",
+    "audio_filepath": "../Data/audio/phn/voices/1043664892_444857_444858_35658.ogg",
+    "speaker": "1043664892",
+    "transcript": "051 8722689"
+  },
+  {
+    "audio": "575298922_444974_444975_35825",
+    "audio_filepath": "../Data/audio/phn/voices/575298922_444974_444975_35825.ogg",
+    "speaker": "575298922",
+    "transcript": "070 6445647"
+  },
+  {
+    "audio": "1128232293_445032_445033_35771",
+    "audio_filepath": "../Data/audio/phn/voices/1128232293_445032_445033_35771.ogg",
+    "speaker": "1128232293",
+    "transcript": "055 6352439"
+  },
+  {
+    "audio": "1013880018_445122_445123_36132",
+    "audio_filepath": "../Data/audio/phn/voices/1013880018_445122_445123_36132.ogg",
+    "speaker": "1013880018",
+    "transcript": "099 9183451"
+  },
+  {
+    "audio": "5196964268_445186_445187_36046",
+    "audio_filepath": "../Data/audio/phn/voices/5196964268_445186_445187_36046.ogg",
+    "speaker": "5196964268",
+    "transcript": "099 9562179"
+  },
+  {
+    "audio": "575298922_445330_445331_35750",
+    "audio_filepath": "../Data/audio/phn/voices/575298922_445330_445331_35750.ogg",
+    "speaker": "575298922",
+    "transcript": "055 3963829"
+  },
+  {
+    "audio": "1128232293_445424_445429_35835",
+    "audio_filepath": "../Data/audio/phn/voices/1128232293_445424_445429_35835.ogg",
+    "speaker": "1128232293",
+    "transcript": "070 3775657"
+  },
+  {
+    "audio": "1043664892_445442_445445_35712",
+    "audio_filepath": "../Data/audio/phn/voices/1043664892_445442_445445_35712.ogg",
+    "speaker": "1043664892",
+    "transcript": "055 7864557"
+  },
+  {
+    "audio": "1043664892_445465_445467_35181",
+    "audio_filepath": "../Data/audio/phn/voices/1043664892_445465_445467_35181.ogg",
+    "speaker": "1043664892",
+    "transcript": "010 3583955"
+  },
+  {
+    "audio": "1878274529_445488_445493_35347",
+    "audio_filepath": "../Data/audio/phn/voices/1878274529_445488_445493_35347.ogg",
+    "speaker": "1878274529",
+    "transcript": "012 5951837"
+  },
+  {
+    "audio": "1128232293_445658_445670_35609",
+    "audio_filepath": "../Data/audio/phn/voices/1128232293_445658_445670_35609.ogg",
+    "speaker": "1128232293",
+    "transcript": "051 1233328"
+  },
+  {
+    "audio": "1878274529_445699_445706_35328",
+    "audio_filepath": "../Data/audio/phn/voices/1878274529_445699_445706_35328.ogg",
+    "speaker": "1878274529",
+    "transcript": "012 6453794"
+  },
+  {
+    "audio": "1878274529_445718_445725_35841",
+    "audio_filepath": "../Data/audio/phn/voices/1878274529_445718_445725_35841.ogg",
+    "speaker": "1878274529",
+    "transcript": "070 9556589"
+  },
+  {
+    "audio": "575298922_445743_445777_36075",
+    "audio_filepath": "../Data/audio/phn/voices/575298922_445743_445777_36075.ogg",
+    "speaker": "575298922",
+    "transcript": "099 2811432"
+  },
+  {
+    "audio": "575298922_445914_445922_35436",
+    "audio_filepath": "../Data/audio/phn/voices/575298922_445914_445922_35436.ogg",
+    "speaker": "575298922",
+    "transcript": "050 4394869"
+  },
+  {
+    "audio": "1347919237_445909_445928_35213",
+    "audio_filepath": "../Data/audio/phn/voices/1347919237_445909_445928_35213.ogg",
+    "speaker": "1347919237",
+    "transcript": "010 5927475"
+  },
+  {
+    "audio": "1013880018_445944_445979_35252",
+    "audio_filepath": "../Data/audio/phn/voices/1013880018_445944_445979_35252.ogg",
+    "speaker": "1013880018",
+    "transcript": "010 4842779"
+  },
+  {
+    "audio": "1347919237_446091_446095_35256",
+    "audio_filepath": "../Data/audio/phn/voices/1347919237_446091_446095_35256.ogg",
+    "speaker": "1347919237",
+    "transcript": "010 3461392"
+  },
+  {
+    "audio": "575298922_446153_446160_35532",
+    "audio_filepath": "../Data/audio/phn/voices/575298922_446153_446160_35532.ogg",
+    "speaker": "575298922",
+    "transcript": "050 1554843"
+  },
+  {
+    "audio": "1043664892_446412_446418_35928",
+    "audio_filepath": "../Data/audio/phn/voices/1043664892_446412_446418_35928.ogg",
+    "speaker": "1043664892",
+    "transcript": "077 9252997"
+  },
+  {
+    "audio": "1043664892_446820_446828_35441",
+    "audio_filepath": "../Data/audio/phn/voices/1043664892_446820_446828_35441.ogg",
+    "speaker": "1043664892",
+    "transcript": "050 9264888"
+  },
+  {
+    "audio": "1128232293_446920_446927_35718",
+    "audio_filepath": "../Data/audio/phn/voices/1128232293_446920_446927_35718.ogg",
+    "speaker": "1128232293",
+    "transcript": "055 3969921"
+  },
+  {
+    "audio": "1043664892_446968_446974_35803",
+    "audio_filepath": "../Data/audio/phn/voices/1043664892_446968_446974_35803.ogg",
+    "speaker": "1043664892",
+    "transcript": "070 4127791"
+  },
+  {
+    "audio": "619589413_446988_446997_35174",
+    "audio_filepath": "../Data/audio/phn/voices/619589413_446988_446997_35174.ogg",
+    "speaker": "619589413",
+    "transcript": "010 7338391"
+  },
+  {
+    "audio": "1128232293_447072_447080_35885",
+    "audio_filepath": "../Data/audio/phn/voices/1128232293_447072_447080_35885.ogg",
+    "speaker": "1128232293",
+    "transcript": "070 4435357"
+  },
+  {
+    "audio": "1013880018_447269_447290_35737",
+    "audio_filepath": "../Data/audio/phn/voices/1013880018_447269_447290_35737.ogg",
+    "speaker": "1013880018",
+    "transcript": "055 5514137"
+  },
+  {
+    "audio": "619589413_447387_447396_35394",
+    "audio_filepath": "../Data/audio/phn/voices/619589413_447387_447396_35394.ogg",
+    "speaker": "619589413",
+    "transcript": "012 3745921"
+  },
+  {
+    "audio": "1013880018_447484_447497_35499",
+    "audio_filepath": "../Data/audio/phn/voices/1013880018_447484_447497_35499.ogg",
+    "speaker": "1013880018",
+    "transcript": "050 8973434"
+  },
+  {
+    "audio": "619589413_447605_447629_35250",
+    "audio_filepath": "../Data/audio/phn/voices/619589413_447605_447629_35250.ogg",
+    "speaker": "619589413",
+    "transcript": "010 7292132"
+  },
+  {
+    "audio": "1082554792_447745_447753_35599",
+    "audio_filepath": "../Data/audio/phn/voices/1082554792_447745_447753_35599.ogg",
+    "speaker": "1082554792",
+    "transcript": "051 9173143"
+  },
+  {
+    "audio": "976055738_447794_447806_35341",
+    "audio_filepath": "../Data/audio/phn/voices/976055738_447794_447806_35341.ogg",
+    "speaker": "976055738",
+    "transcript": "012 5936666"
+  },
+  {
+    "audio": "619589413_447885_447894_35523",
+    "audio_filepath": "../Data/audio/phn/voices/619589413_447885_447894_35523.ogg",
+    "speaker": "619589413",
+    "transcript": "050 3744216"
+  },
+  {
+    "audio": "619589413_447895_447902_35934",
+    "audio_filepath": "../Data/audio/phn/voices/619589413_447895_447902_35934.ogg",
+    "speaker": "619589413",
+    "transcript": "077 2573118"
+  },
+  {
+    "audio": "5591209497_447944_447960_35522",
+    "audio_filepath": "../Data/audio/phn/voices/5591209497_447944_447960_35522.ogg",
+    "speaker": "5591209497",
+    "transcript": "050 4818151"
+  },
+  {
+    "audio": "860296669_447965_447981_35735",
+    "audio_filepath": "../Data/audio/phn/voices/860296669_447965_447981_35735.ogg",
+    "speaker": "860296669",
+    "transcript": "055 8251746"
+  },
+  {
+    "audio": "5591209497_448138_448157_35233",
+    "audio_filepath": "../Data/audio/phn/voices/5591209497_448138_448157_35233.ogg",
+    "speaker": "5591209497",
+    "transcript": "010 8341329"
+  },
+  {
+    "audio": "1082554792_448237_448238_35643",
+    "audio_filepath": "../Data/audio/phn/voices/1082554792_448237_448238_35643.ogg",
+    "speaker": "1082554792",
+    "transcript": "051 4238382"
+  },
+  {
+    "audio": "1128232293_448477_448493_35642",
+    "audio_filepath": "../Data/audio/phn/voices/1128232293_448477_448493_35642.ogg",
+    "speaker": "1128232293",
+    "transcript": "051 3338396"
+  },
+  {
+    "audio": "5591209497_448531_448549_36133",
+    "audio_filepath": "../Data/audio/phn/voices/5591209497_448531_448549_36133.ogg",
+    "speaker": "5591209497",
+    "transcript": "099 1177536"
+  },
+  {
+    "audio": "1013880018_448588_448599_35240",
+    "audio_filepath": "../Data/audio/phn/voices/1013880018_448588_448599_35240.ogg",
+    "speaker": "1013880018",
+    "transcript": "010 1736543"
+  },
+  {
+    "audio": "314849420_448606_448619_35343",
+    "audio_filepath": "../Data/audio/phn/voices/314849420_448606_448619_35343.ogg",
+    "speaker": "314849420",
+    "transcript": "012 7649615"
+  },
+  {
+    "audio": "976055738_448586_448624_35518",
+    "audio_filepath": "../Data/audio/phn/voices/976055738_448586_448624_35518.ogg",
+    "speaker": "976055738",
+    "transcript": "050 9291638"
+  },
+  {
+    "audio": "976055738_448727_448747_35528",
+    "audio_filepath": "../Data/audio/phn/voices/976055738_448727_448747_35528.ogg",
+    "speaker": "976055738",
+    "transcript": "050 9152172"
+  },
+  {
+    "audio": "1878274529_448893_448906_35285",
+    "audio_filepath": "../Data/audio/phn/voices/1878274529_448893_448906_35285.ogg",
+    "speaker": "1878274529",
+    "transcript": "010 4618758"
+  },
+  {
+    "audio": "828296631_448959_448970_35467",
+    "audio_filepath": "../Data/audio/phn/voices/828296631_448959_448970_35467.ogg",
+    "speaker": "828296631",
+    "transcript": "050 8733415"
+  },
+  {
+    "audio": "5591209497_449263_449278_35694",
+    "audio_filepath": "../Data/audio/phn/voices/5591209497_449263_449278_35694.ogg",
+    "speaker": "5591209497",
+    "transcript": "055 2757212"
+  },
+  {
+    "audio": "1878274529_449281_449292_36070",
+    "audio_filepath": "../Data/audio/phn/voices/1878274529_449281_449292_36070.ogg",
+    "speaker": "1878274529",
+    "transcript": "099 5994933"
+  },
+  {
+    "audio": "1878274529_449362_449370_35414",
+    "audio_filepath": "../Data/audio/phn/voices/1878274529_449362_449370_35414.ogg",
+    "speaker": "1878274529",
+    "transcript": "050 7129279"
+  },
+  {
+    "audio": "314849420_449444_449456_35227",
+    "audio_filepath": "../Data/audio/phn/voices/314849420_449444_449456_35227.ogg",
+    "speaker": "314849420",
+    "transcript": "010 5235536"
+  },
+  {
+    "audio": "314849420_449513_449522_35199",
+    "audio_filepath": "../Data/audio/phn/voices/314849420_449513_449522_35199.ogg",
+    "speaker": "314849420",
+    "transcript": "010 7783827"
+  },
+  {
+    "audio": "5591209497_449482_449523_35573",
+    "audio_filepath": "../Data/audio/phn/voices/5591209497_449482_449523_35573.ogg",
+    "speaker": "5591209497",
+    "transcript": "051 4439445"
+  },
+  {
+    "audio": "1013880018_449702_449710_35382",
+    "audio_filepath": "../Data/audio/phn/voices/1013880018_449702_449710_35382.ogg",
+    "speaker": "1013880018",
+    "transcript": "012 5194659"
+  },
+  {
+    "audio": "1013880018_449712_449723_35886",
+    "audio_filepath": "../Data/audio/phn/voices/1013880018_449712_449723_35886.ogg",
+    "speaker": "1013880018",
+    "transcript": "070 5921461"
+  },
+  {
+    "audio": "976055738_449685_449751_36102",
+    "audio_filepath": "../Data/audio/phn/voices/976055738_449685_449751_36102.ogg",
+    "speaker": "976055738",
+    "transcript": "099 8457659"
+  },
+  {
+    "audio": "1878274529_449940_449947_35894",
+    "audio_filepath": "../Data/audio/phn/voices/1878274529_449940_449947_35894.ogg",
+    "speaker": "1878274529",
+    "transcript": "070 6345331"
+  },
+  {
+    "audio": "1013880018_449999_450009_35263",
+    "audio_filepath": "../Data/audio/phn/voices/1013880018_449999_450009_35263.ogg",
+    "speaker": "1013880018",
+    "transcript": "010 5124991"
+  },
+  {
+    "audio": "1878274529_450007_450013_35918",
+    "audio_filepath": "../Data/audio/phn/voices/1878274529_450007_450013_35918.ogg",
+    "speaker": "1878274529",
+    "transcript": "077 1471994"
+  },
+  {
+    "audio": "314849420_450012_450023_35413",
+    "audio_filepath": "../Data/audio/phn/voices/314849420_450012_450023_35413.ogg",
+    "speaker": "314849420",
+    "transcript": "050 1174572"
+  },
+  {
+    "audio": "314849420_450044_450051_35772",
+    "audio_filepath": "../Data/audio/phn/voices/314849420_450044_450051_35772.ogg",
+    "speaker": "314849420",
+    "transcript": "055 2731824"
+  },
+  {
+    "audio": "976055738_450056_450062_35968",
+    "audio_filepath": "../Data/audio/phn/voices/976055738_450056_450062_35968.ogg",
+    "speaker": "976055738",
+    "transcript": "077 8927743"
+  },
+  {
+    "audio": "1878274529_450170_450177_35168",
+    "audio_filepath": "../Data/audio/phn/voices/1878274529_450170_450177_35168.ogg",
+    "speaker": "1878274529",
+    "transcript": "010 5527833"
+  },
+  {
+    "audio": "1878274529_450204_450205_35228",
+    "audio_filepath": "../Data/audio/phn/voices/1878274529_450204_450205_35228.ogg",
+    "speaker": "1878274529",
+    "transcript": "010 9654477"
+  },
+  {
+    "audio": "314849420_450229_450236_36061",
+    "audio_filepath": "../Data/audio/phn/voices/314849420_450229_450236_36061.ogg",
+    "speaker": "314849420",
+    "transcript": "099 8112532"
+  },
+  {
+    "audio": "1878274529_450554_450567_35196",
+    "audio_filepath": "../Data/audio/phn/voices/1878274529_450554_450567_35196.ogg",
+    "speaker": "1878274529",
+    "transcript": "010 6543949"
+  },
+  {
+    "audio": "5591209497_450584_450595_35730",
+    "audio_filepath": "../Data/audio/phn/voices/5591209497_450584_450595_35730.ogg",
+    "speaker": "5591209497",
+    "transcript": "055 2195949"
+  },
+  {
+    "audio": "763941567_450601_450611_36084",
+    "audio_filepath": "../Data/audio/phn/voices/763941567_450601_450611_36084.ogg",
+    "speaker": "763941567",
+    "transcript": "099 4452942"
+  },
+  {
+    "audio": "763941567_450613_450622_35299",
+    "audio_filepath": "../Data/audio/phn/voices/763941567_450613_450622_35299.ogg",
+    "speaker": "763941567",
+    "transcript": "012 5273997"
+  },
+  {
+    "audio": "5591209497_450747_450761_36056",
+    "audio_filepath": "../Data/audio/phn/voices/5591209497_450747_450761_36056.ogg",
+    "speaker": "5591209497",
+    "transcript": "099 8215219"
+  },
+  {
+    "audio": "314849420_450801_450814_35478",
+    "audio_filepath": "../Data/audio/phn/voices/314849420_450801_450814_35478.ogg",
+    "speaker": "314849420",
+    "transcript": "050 4395435"
+  },
+  {
+    "audio": "5591209497_450958_450959_35313",
+    "audio_filepath": "../Data/audio/phn/voices/5591209497_450958_450959_35313.ogg",
+    "speaker": "5591209497",
+    "transcript": "012 4319793"
+  },
+  {
+    "audio": "1128232293_450778_450984_35670",
+    "audio_filepath": "../Data/audio/phn/voices/1128232293_450778_450984_35670.ogg",
+    "speaker": "1128232293",
+    "transcript": "055 3496793"
+  },
+  {
+    "audio": "5591209497_451009_451014_35815",
+    "audio_filepath": "../Data/audio/phn/voices/5591209497_451009_451014_35815.ogg",
+    "speaker": "5591209497",
+    "transcript": "070 9689819"
+  },
+  {
+    "audio": "763941567_451134_451142_35375",
+    "audio_filepath": "../Data/audio/phn/voices/763941567_451134_451142_35375.ogg",
+    "speaker": "763941567",
+    "transcript": "012 6892933"
+  },
+  {
+    "audio": "763941567_451222_451229_35705",
+    "audio_filepath": "../Data/audio/phn/voices/763941567_451222_451229_35705.ogg",
+    "speaker": "763941567",
+    "transcript": "055 5877691"
+  },
+  {
+    "audio": "5591209497_451526_451536_36145",
+    "audio_filepath": "../Data/audio/phn/voices/5591209497_451526_451536_36145.ogg",
+    "speaker": "5591209497",
+    "transcript": "099 3623188"
+  },
+  {
+    "audio": "815993798_451547_451551_35807",
+    "audio_filepath": "../Data/audio/phn/voices/815993798_451547_451551_35807.ogg",
+    "speaker": "815993798",
+    "transcript": "070 4199131"
+  },
+  {
+    "audio": "815993798_451562_451569_36112",
+    "audio_filepath": "../Data/audio/phn/voices/815993798_451562_451569_36112.ogg",
+    "speaker": "815993798",
+    "transcript": "099 4398213"
+  },
+  {
+    "audio": "763941567_451610_451616_36054",
+    "audio_filepath": "../Data/audio/phn/voices/763941567_451610_451616_36054.ogg",
+    "speaker": "763941567",
+    "transcript": "099 1817524"
+  },
+  {
+    "audio": "763941567_451628_451629_35697",
+    "audio_filepath": "../Data/audio/phn/voices/763941567_451628_451629_35697.ogg",
+    "speaker": "763941567",
+    "transcript": "055 2191465"
+  },
+  {
+    "audio": "763941567_451630_451633_36142",
+    "audio_filepath": "../Data/audio/phn/voices/763941567_451630_451633_36142.ogg",
+    "speaker": "763941567",
+    "transcript": "099 8393775"
+  },
+  {
+    "audio": "1013880018_451770_451806_35995",
+    "audio_filepath": "../Data/audio/phn/voices/1013880018_451770_451806_35995.ogg",
+    "speaker": "1013880018",
+    "transcript": "077 1652146"
+  },
+  {
+    "audio": "5591209497_451802_451812_35320",
+    "audio_filepath": "../Data/audio/phn/voices/5591209497_451802_451812_35320.ogg",
+    "speaker": "5591209497",
+    "transcript": "012 5348888"
+  },
+  {
+    "audio": "1013880018_451807_451814_36020",
+    "audio_filepath": "../Data/audio/phn/voices/1013880018_451807_451814_36020.ogg",
+    "speaker": "1013880018",
+    "transcript": "077 8238129"
+  },
+  {
+    "audio": "5591209497_452002_452011_35206",
+    "audio_filepath": "../Data/audio/phn/voices/5591209497_452002_452011_35206.ogg",
+    "speaker": "5591209497",
+    "transcript": "010 4446717"
+  },
+  {
+    "audio": "860296669_452398_452399_36144",
+    "audio_filepath": "../Data/audio/phn/voices/860296669_452398_452399_36144.ogg",
+    "speaker": "860296669",
+    "transcript": "099 8187893"
+  },
+  {
+    "audio": "892642911_452584_452597_35283",
+    "audio_filepath": "../Data/audio/phn/voices/892642911_452584_452597_35283.ogg",
+    "speaker": "892642911",
+    "transcript": "010 9879139"
+  },
+  {
+    "audio": "763941567_452592_452601_36024",
+    "audio_filepath": "../Data/audio/phn/voices/763941567_452592_452601_36024.ogg",
+    "speaker": "763941567",
+    "transcript": "077 5262423"
+  },
+  {
+    "audio": "976055738_452679_452691_35380",
+    "audio_filepath": "../Data/audio/phn/voices/976055738_452679_452691_35380.ogg",
+    "speaker": "976055738",
+    "transcript": "012 3356236"
+  },
+  {
+    "audio": "5591209497_452697_452712_35452",
+    "audio_filepath": "../Data/audio/phn/voices/5591209497_452697_452712_35452.ogg",
+    "speaker": "5591209497",
+    "transcript": "050 9123673"
+  },
+  {
+    "audio": "713611046_452687_452735_35244",
+    "audio_filepath": "../Data/audio/phn/voices/713611046_452687_452735_35244.ogg",
+    "speaker": "713611046",
+    "transcript": "010 1236642"
+  },
+  {
+    "audio": "539261624_452764_452775_35816",
+    "audio_filepath": "../Data/audio/phn/voices/539261624_452764_452775_35816.ogg",
+    "speaker": "539261624",
+    "transcript": "070 4964598"
+  },
+  {
+    "audio": "815993798_452837_452843_35994",
+    "audio_filepath": "../Data/audio/phn/voices/815993798_452837_452843_35994.ogg",
+    "speaker": "815993798",
+    "transcript": "077 4711654"
+  },
+  {
+    "audio": "5591209497_452833_452849_35887",
+    "audio_filepath": "../Data/audio/phn/voices/5591209497_452833_452849_35887.ogg",
+    "speaker": "5591209497",
+    "transcript": "070 7679997"
+  },
+  {
+    "audio": "815993798_452867_452875_35962",
+    "audio_filepath": "../Data/audio/phn/voices/815993798_452867_452875_35962.ogg",
+    "speaker": "815993798",
+    "transcript": "077 7562716"
+  },
+  {
+    "audio": "5591209497_452981_452993_35761",
+    "audio_filepath": "../Data/audio/phn/voices/5591209497_452981_452993_35761.ogg",
+    "speaker": "5591209497",
+    "transcript": "055 2549954"
+  },
+  {
+    "audio": "713611046_453523_453534_35891",
+    "audio_filepath": "../Data/audio/phn/voices/713611046_453523_453534_35891.ogg",
+    "speaker": "713611046",
+    "transcript": "070 5271342"
+  },
+  {
+    "audio": "976055738_453609_453624_35901",
+    "audio_filepath": "../Data/audio/phn/voices/976055738_453609_453624_35901.ogg",
+    "speaker": "976055738",
+    "transcript": "070 8197687"
+  },
+  {
+    "audio": "1878274529_453640_453650_35515",
+    "audio_filepath": "../Data/audio/phn/voices/1878274529_453640_453650_35515.ogg",
+    "speaker": "1878274529",
+    "transcript": "050 1665296"
+  },
+  {
+    "audio": "976055738_453705_453716_35949",
+    "audio_filepath": "../Data/audio/phn/voices/976055738_453705_453716_35949.ogg",
+    "speaker": "976055738",
+    "transcript": "077 8363638"
+  },
+  {
+    "audio": "713611046_453711_453729_35512",
+    "audio_filepath": "../Data/audio/phn/voices/713611046_453711_453729_35512.ogg",
+    "speaker": "713611046",
+    "transcript": "050 3963577"
+  },
+  {
+    "audio": "815993798_453739_453751_35654",
+    "audio_filepath": "../Data/audio/phn/voices/815993798_453739_453751_35654.ogg",
+    "speaker": "815993798",
+    "transcript": "051 9355118"
+  },
+  {
+    "audio": "5591209497_453819_453826_35960",
+    "audio_filepath": "../Data/audio/phn/voices/5591209497_453819_453826_35960.ogg",
+    "speaker": "5591209497",
+    "transcript": "077 5136367"
+  },
+  {
+    "audio": "539261624_453832_453847_35534",
+    "audio_filepath": "../Data/audio/phn/voices/539261624_453832_453847_35534.ogg",
+    "speaker": "539261624",
+    "transcript": "050 3919881"
+  },
+  {
+    "audio": "1878274529_453857_453866_36085",
+    "audio_filepath": "../Data/audio/phn/voices/1878274529_453857_453866_36085.ogg",
+    "speaker": "1878274529",
+    "transcript": "099 9847883"
+  },
+  {
+    "audio": "539261624_453861_453877_35259",
+    "audio_filepath": "../Data/audio/phn/voices/539261624_453861_453877_35259.ogg",
+    "speaker": "539261624",
+    "transcript": "010 5536141"
+  },
+  {
+    "audio": "539261624_453943_453948_35230",
+    "audio_filepath": "../Data/audio/phn/voices/539261624_453943_453948_35230.ogg",
+    "speaker": "539261624",
+    "transcript": "010 7774228"
+  },
+  {
+    "audio": "5591209497_453950_453956_35348",
+    "audio_filepath": "../Data/audio/phn/voices/5591209497_453950_453956_35348.ogg",
+    "speaker": "5591209497",
+    "transcript": "012 6727771"
+  },
+  {
+    "audio": "5591209497_454158_454173_35231",
+    "audio_filepath": "../Data/audio/phn/voices/5591209497_454158_454173_35231.ogg",
+    "speaker": "5591209497",
+    "transcript": "010 4491392"
+  },
+  {
+    "audio": "426881765_454249_454263_35703",
+    "audio_filepath": "../Data/audio/phn/voices/426881765_454249_454263_35703.ogg",
+    "speaker": "426881765",
+    "transcript": "055 7561271"
+  },
+  {
+    "audio": "828296631_454331_454343_35680",
+    "audio_filepath": "../Data/audio/phn/voices/828296631_454331_454343_35680.ogg",
+    "speaker": "828296631",
+    "transcript": "055 9669185"
+  },
+  {
+    "audio": "539261624_454391_454399_35529",
+    "audio_filepath": "../Data/audio/phn/voices/539261624_454391_454399_35529.ogg",
+    "speaker": "539261624",
+    "transcript": "050 3462951"
+  },
+  {
+    "audio": "539261624_454592_454599_35415",
+    "audio_filepath": "../Data/audio/phn/voices/539261624_454592_454599_35415.ogg",
+    "speaker": "539261624",
+    "transcript": "050 9998127"
+  },
+  {
+    "audio": "539261624_454634_454651_35732",
+    "audio_filepath": "../Data/audio/phn/voices/539261624_454634_454651_35732.ogg",
+    "speaker": "539261624",
+    "transcript": "055 4617693"
+  },
+  {
+    "audio": "539261624_454718_454729_36043",
+    "audio_filepath": "../Data/audio/phn/voices/539261624_454718_454729_36043.ogg",
+    "speaker": "539261624",
+    "transcript": "099 2133434"
+  },
+  {
+    "audio": "426881765_454839_454854_35335",
+    "audio_filepath": "../Data/audio/phn/voices/426881765_454839_454854_35335.ogg",
+    "speaker": "426881765",
+    "transcript": "012 2461682"
+  },
+  {
+    "audio": "763941567_454897_454904_35365",
+    "audio_filepath": "../Data/audio/phn/voices/763941567_454897_454904_35365.ogg",
+    "speaker": "763941567",
+    "transcript": "012 3536191"
+  },
+  {
+    "audio": "763941567_454942_454959_35639",
+    "audio_filepath": "../Data/audio/phn/voices/763941567_454942_454959_35639.ogg",
+    "speaker": "763941567",
+    "transcript": "051 4266832"
+  },
+  {
+    "audio": "539261624_454971_454981_36067",
+    "audio_filepath": "../Data/audio/phn/voices/539261624_454971_454981_36067.ogg",
+    "speaker": "539261624",
+    "transcript": "099 4441381"
+  },
+  {
+    "audio": "892642911_455150_455163_35431",
+    "audio_filepath": "../Data/audio/phn/voices/892642911_455150_455163_35431.ogg",
+    "speaker": "892642911",
+    "transcript": "050 3231438"
+  },
+  {
+    "audio": "539261624_455171_455181_35819",
+    "audio_filepath": "../Data/audio/phn/voices/539261624_455171_455181_35819.ogg",
+    "speaker": "539261624",
+    "transcript": "070 8742631"
+  },
+  {
+    "audio": "1229817727_455213_455221_36068",
+    "audio_filepath": "../Data/audio/phn/voices/1229817727_455213_455221_36068.ogg",
+    "speaker": "1229817727",
+    "transcript": "099 3664325"
+  },
+  {
+    "audio": "1229817727_455222_455232_35920",
+    "audio_filepath": "../Data/audio/phn/voices/1229817727_455222_455232_35920.ogg",
+    "speaker": "1229817727",
+    "transcript": "077 4593414"
+  },
+  {
+    "audio": "763941567_455240_455249_35344",
+    "audio_filepath": "../Data/audio/phn/voices/763941567_455240_455249_35344.ogg",
+    "speaker": "763941567",
+    "transcript": "012 8298791"
+  },
+  {
+    "audio": "815993798_455464_455470_35678",
+    "audio_filepath": "../Data/audio/phn/voices/815993798_455464_455470_35678.ogg",
+    "speaker": "815993798",
+    "transcript": "055 4351759"
+  },
+  {
+    "audio": "763941567_455475_455480_35975",
+    "audio_filepath": "../Data/audio/phn/voices/763941567_455475_455480_35975.ogg",
+    "speaker": "763941567",
+    "transcript": "077 8685257"
+  },
+  {
+    "audio": "763941567_455493_455501_36101",
+    "audio_filepath": "../Data/audio/phn/voices/763941567_455493_455501_36101.ogg",
+    "speaker": "763941567",
+    "transcript": "099 7994348"
+  },
+  {
+    "audio": "763941567_455678_455683_35701",
+    "audio_filepath": "../Data/audio/phn/voices/763941567_455678_455683_35701.ogg",
+    "speaker": "763941567",
+    "transcript": "055 4263351"
+  },
+  {
+    "audio": "892642911_455687_455691_35416",
+    "audio_filepath": "../Data/audio/phn/voices/892642911_455687_455691_35416.ogg",
+    "speaker": "892642911",
+    "transcript": "050 7688515"
+  },
+  {
+    "audio": "892642911_455752_455759_35682",
+    "audio_filepath": "../Data/audio/phn/voices/892642911_455752_455759_35682.ogg",
+    "speaker": "892642911",
+    "transcript": "055 2199991"
+  },
+  {
+    "audio": "828296631_455807_455815_35661",
+    "audio_filepath": "../Data/audio/phn/voices/828296631_455807_455815_35661.ogg",
+    "speaker": "828296631",
+    "transcript": "055 3845556"
+  },
+  {
+    "audio": "828296631_455910_455919_35211",
+    "audio_filepath": "../Data/audio/phn/voices/828296631_455910_455919_35211.ogg",
+    "speaker": "828296631",
+    "transcript": "010 4362895"
+  },
+  {
+    "audio": "5591209497_455934_455953_35889",
+    "audio_filepath": "../Data/audio/phn/voices/5591209497_455934_455953_35889.ogg",
+    "speaker": "5591209497",
+    "transcript": "070 8461974"
+  },
+  {
+    "audio": "539261624_456033_456041_36091",
+    "audio_filepath": "../Data/audio/phn/voices/539261624_456033_456041_36091.ogg",
+    "speaker": "539261624",
+    "transcript": "099 4113689"
+  },
+  {
+    "audio": "1229817727_456293_456312_35417",
+    "audio_filepath": "../Data/audio/phn/voices/1229817727_456293_456312_35417.ogg",
+    "speaker": "1229817727",
+    "transcript": "050 4451663"
+  },
+  {
+    "audio": "763941567_456525_456533_35628",
+    "audio_filepath": "../Data/audio/phn/voices/763941567_456525_456533_35628.ogg",
+    "speaker": "763941567",
+    "transcript": "051 4588243"
+  },
+  {
+    "audio": "539261624_456582_456597_35837",
+    "audio_filepath": "../Data/audio/phn/voices/539261624_456582_456597_35837.ogg",
+    "speaker": "539261624",
+    "transcript": "070 7631246"
+  },
+  {
+    "audio": "763941567_456622_456635_35409",
+    "audio_filepath": "../Data/audio/phn/voices/763941567_456622_456635_35409.ogg",
+    "speaker": "763941567",
+    "transcript": "012 3769594"
+  },
+  {
+    "audio": "828296631_456669_456679_35931",
+    "audio_filepath": "../Data/audio/phn/voices/828296631_456669_456679_35931.ogg",
+    "speaker": "828296631",
+    "transcript": "077 3257226"
+  },
+  {
+    "audio": "1128232293_456862_456875_35591",
+    "audio_filepath": "../Data/audio/phn/voices/1128232293_456862_456875_35591.ogg",
+    "speaker": "1128232293",
+    "transcript": "051 1141263"
+  },
+  {
+    "audio": "815993798_456912_456923_35439",
+    "audio_filepath": "../Data/audio/phn/voices/815993798_456912_456923_35439.ogg",
+    "speaker": "815993798",
+    "transcript": "050 1134777"
+  },
+  {
+    "audio": "5591209497_456937_456953_35388",
+    "audio_filepath": "../Data/audio/phn/voices/5591209497_456937_456953_35388.ogg",
+    "speaker": "5591209497",
+    "transcript": "012 3948949"
+  },
+  {
+    "audio": "539261624_457004_457020_35530",
+    "audio_filepath": "../Data/audio/phn/voices/539261624_457004_457020_35530.ogg",
+    "speaker": "539261624",
+    "transcript": "050 6976159"
+  },
+  {
+    "audio": "1128232293_457077_457094_35447",
+    "audio_filepath": "../Data/audio/phn/voices/1128232293_457077_457094_35447.ogg",
+    "speaker": "1128232293",
+    "transcript": "050 5283384"
+  },
+  {
+    "audio": "763941567_457418_457423_35861",
+    "audio_filepath": "../Data/audio/phn/voices/763941567_457418_457423_35861.ogg",
+    "speaker": "763941567",
+    "transcript": "070 9527849"
+  },
+  {
+    "audio": "763941567_457425_457433_35888",
+    "audio_filepath": "../Data/audio/phn/voices/763941567_457425_457433_35888.ogg",
+    "speaker": "763941567",
+    "transcript": "070 6516624"
+  },
+  {
+    "audio": "815993798_457522_457528_35629",
+    "audio_filepath": "../Data/audio/phn/voices/815993798_457522_457528_35629.ogg",
+    "speaker": "815993798",
+    "transcript": "051 4866426"
+  },
+  {
+    "audio": "5591209497_457555_457565_35635",
+    "audio_filepath": "../Data/audio/phn/voices/5591209497_457555_457565_35635.ogg",
+    "speaker": "5591209497",
+    "transcript": "051 4443676"
+  },
+  {
+    "audio": "763941567_457631_457649_35923",
+    "audio_filepath": "../Data/audio/phn/voices/763941567_457631_457649_35923.ogg",
+    "speaker": "763941567",
+    "transcript": "077 4792654"
+  },
+  {
+    "audio": "1128232293_457622_457655_35641",
+    "audio_filepath": "../Data/audio/phn/voices/1128232293_457622_457655_35641.ogg",
+    "speaker": "1128232293",
+    "transcript": "051 5119161"
+  },
+  {
+    "audio": "828296631_457734_457750_35423",
+    "audio_filepath": "../Data/audio/phn/voices/828296631_457734_457750_35423.ogg",
+    "speaker": "828296631",
+    "transcript": "050 7891919"
+  },
+  {
+    "audio": "1128232293_457871_457903_35487",
+    "audio_filepath": "../Data/audio/phn/voices/1128232293_457871_457903_35487.ogg",
+    "speaker": "1128232293",
+    "transcript": "050 7975579"
+  },
+  {
+    "audio": "763941567_457943_457958_35296",
+    "audio_filepath": "../Data/audio/phn/voices/763941567_457943_457958_35296.ogg",
+    "speaker": "763941567",
+    "transcript": "012 5775731"
+  },
+  {
+    "audio": "763941567_458176_458188_35463",
+    "audio_filepath": "../Data/audio/phn/voices/763941567_458176_458188_35463.ogg",
+    "speaker": "763941567",
+    "transcript": "050 5969554"
+  },
+  {
+    "audio": "763941567_458295_458303_35384",
+    "audio_filepath": "../Data/audio/phn/voices/763941567_458295_458303_35384.ogg",
+    "speaker": "763941567",
+    "transcript": "012 7892797"
+  },
+  {
+    "audio": "713611046_458324_458329_35538",
+    "audio_filepath": "../Data/audio/phn/voices/713611046_458324_458329_35538.ogg",
+    "speaker": "713611046",
+    "transcript": "051 2855997"
+  },
+  {
+    "audio": "713611046_458458_458468_36149",
+    "audio_filepath": "../Data/audio/phn/voices/713611046_458458_458468_36149.ogg",
+    "speaker": "713611046",
+    "transcript": "099 2172293"
+  },
+  {
+    "audio": "527731854_458482_458489_35683",
+    "audio_filepath": "../Data/audio/phn/voices/527731854_458482_458489_35683.ogg",
+    "speaker": "527731854",
+    "transcript": "055 9418433"
+  },
+  {
+    "audio": "763941567_458533_458543_35577",
+    "audio_filepath": "../Data/audio/phn/voices/763941567_458533_458543_35577.ogg",
+    "speaker": "763941567",
+    "transcript": "051 2455981"
+  },
+  {
+    "audio": "1878274529_458542_458549_35776",
+    "audio_filepath": "../Data/audio/phn/voices/1878274529_458542_458549_35776.ogg",
+    "speaker": "1878274529",
+    "transcript": "055 4464132"
+  },
+  {
+    "audio": "1878274529_458602_458610_36047",
+    "audio_filepath": "../Data/audio/phn/voices/1878274529_458602_458610_36047.ogg",
+    "speaker": "1878274529",
+    "transcript": "099 8998759"
+  },
+  {
+    "audio": "763941567_458712_458718_35364",
+    "audio_filepath": "../Data/audio/phn/voices/763941567_458712_458718_35364.ogg",
+    "speaker": "763941567",
+    "transcript": "012 7782665"
+  },
+  {
+    "audio": "527731854_458734_458741_35569",
+    "audio_filepath": "../Data/audio/phn/voices/527731854_458734_458741_35569.ogg",
+    "speaker": "527731854",
+    "transcript": "051 4293648"
+  },
+  {
+    "audio": "1878274529_458771_458775_35663",
+    "audio_filepath": "../Data/audio/phn/voices/1878274529_458771_458775_35663.ogg",
+    "speaker": "1878274529",
+    "transcript": "055 5785271"
+  },
+  {
+    "audio": "763941567_458814_458825_35954",
+    "audio_filepath": "../Data/audio/phn/voices/763941567_458814_458825_35954.ogg",
+    "speaker": "763941567",
+    "transcript": "077 5582528"
+  },
+  {
+    "audio": "527731854_458835_458836_35961",
+    "audio_filepath": "../Data/audio/phn/voices/527731854_458835_458836_35961.ogg",
+    "speaker": "527731854",
+    "transcript": "077 2314215"
+  },
+  {
+    "audio": "1878274529_459112_459119_35176",
+    "audio_filepath": "../Data/audio/phn/voices/1878274529_459112_459119_35176.ogg",
+    "speaker": "1878274529",
+    "transcript": "010 8468322"
+  },
+  {
+    "audio": "1229817727_459173_459194_35916",
+    "audio_filepath": "../Data/audio/phn/voices/1229817727_459173_459194_35916.ogg",
+    "speaker": "1229817727",
+    "transcript": "077 2712122"
+  },
+  {
+    "audio": "1878274529_459207_459214_35610",
+    "audio_filepath": "../Data/audio/phn/voices/1878274529_459207_459214_35610.ogg",
+    "speaker": "1878274529",
+    "transcript": "051 5868134"
+  },
+  {
+    "audio": "539261624_459271_459280_35731",
+    "audio_filepath": "../Data/audio/phn/voices/539261624_459271_459280_35731.ogg",
+    "speaker": "539261624",
+    "transcript": "055 4199435"
+  },
+  {
+    "audio": "575298922_459302_459315_35800",
+    "audio_filepath": "../Data/audio/phn/voices/575298922_459302_459315_35800.ogg",
+    "speaker": "575298922",
+    "transcript": "070 6326635"
+  },
+  {
+    "audio": "1297961140_459476_459485_35312",
+    "audio_filepath": "../Data/audio/phn/voices/1297961140_459476_459485_35312.ogg",
+    "speaker": "1297961140",
+    "transcript": "012 4731289"
+  },
+  {
+    "audio": "1229817727_459711_459729_36115",
+    "audio_filepath": "../Data/audio/phn/voices/1229817727_459711_459729_36115.ogg",
+    "speaker": "1229817727",
+    "transcript": "099 5135675"
+  },
+  {
+    "audio": "575298922_459732_459744_36055",
+    "audio_filepath": "../Data/audio/phn/voices/575298922_459732_459744_36055.ogg",
+    "speaker": "575298922",
+    "transcript": "099 5541243"
+  },
+  {
+    "audio": "1878274529_459819_459824_35453",
+    "audio_filepath": "../Data/audio/phn/voices/1878274529_459819_459824_35453.ogg",
+    "speaker": "1878274529",
+    "transcript": "050 2812195"
+  },
+  {
+    "audio": "1878274529_460323_460330_35818",
+    "audio_filepath": "../Data/audio/phn/voices/1878274529_460323_460330_35818.ogg",
+    "speaker": "1878274529",
+    "transcript": "070 9859584"
+  },
+  {
+    "audio": "1297961140_460373_460382_35552",
+    "audio_filepath": "../Data/audio/phn/voices/1297961140_460373_460382_35552.ogg",
+    "speaker": "1297961140",
+    "transcript": "051 1435759"
+  },
+  {
+    "audio": "539261624_460428_460435_35317",
+    "audio_filepath": "../Data/audio/phn/voices/539261624_460428_460435_35317.ogg",
+    "speaker": "539261624",
+    "transcript": "012 8176589"
+  },
+  {
+    "audio": "1878274529_460503_460506_35243",
+    "audio_filepath": "../Data/audio/phn/voices/1878274529_460503_460506_35243.ogg",
+    "speaker": "1878274529",
+    "transcript": "010 2818415"
+  },
+  {
+    "audio": "763941567_460581_460586_36107",
+    "audio_filepath": "../Data/audio/phn/voices/763941567_460581_460586_36107.ogg",
+    "speaker": "763941567",
+    "transcript": "099 4929216"
+  },
+  {
+    "audio": "1082554792_460678_460684_35937",
+    "audio_filepath": "../Data/audio/phn/voices/1082554792_460678_460684_35937.ogg",
+    "speaker": "1082554792",
+    "transcript": "077 7744388"
+  },
+  {
+    "audio": "1878274529_460749_460758_35625",
+    "audio_filepath": "../Data/audio/phn/voices/1878274529_460749_460758_35625.ogg",
+    "speaker": "1878274529",
+    "transcript": "051 9189161"
+  },
+  {
+    "audio": "1082554792_460788_460798_36135",
+    "audio_filepath": "../Data/audio/phn/voices/1082554792_460788_460798_36135.ogg",
+    "speaker": "1082554792",
+    "transcript": "099 9357962"
+  },
+  {
+    "audio": "1878274529_460949_460953_35708",
+    "audio_filepath": "../Data/audio/phn/voices/1878274529_460949_460953_35708.ogg",
+    "speaker": "1878274529",
+    "transcript": "055 1388492"
+  },
+  {
+    "audio": "763941567_461090_461096_35892",
+    "audio_filepath": "../Data/audio/phn/voices/763941567_461090_461096_35892.ogg",
+    "speaker": "763941567",
+    "transcript": "070 2659758"
+  },
+  {
+    "audio": "539261624_461225_461234_35403",
+    "audio_filepath": "../Data/audio/phn/voices/539261624_461225_461234_35403.ogg",
+    "speaker": "539261624",
+    "transcript": "012 2878511"
+  },
+  {
+    "audio": "1201653758_461537_461551_35929",
+    "audio_filepath": "../Data/audio/phn/voices/1201653758_461537_461551_35929.ogg",
+    "speaker": "1201653758",
+    "transcript": "077 7986399"
+  },
+  {
+    "audio": "539261624_461587_461598_35739",
+    "audio_filepath": "../Data/audio/phn/voices/539261624_461587_461598_35739.ogg",
+    "speaker": "539261624",
+    "transcript": "055 9937879"
+  },
+  {
+    "audio": "1297961140_461653_461666_36103",
+    "audio_filepath": "../Data/audio/phn/voices/1297961140_461653_461666_36103.ogg",
+    "speaker": "1297961140",
+    "transcript": "099 9683749"
+  },
+  {
+    "audio": "1297961140_461856_461862_35946",
+    "audio_filepath": "../Data/audio/phn/voices/1297961140_461856_461862_35946.ogg",
+    "speaker": "1297961140",
+    "transcript": "077 5287968"
+  },
+  {
+    "audio": "1013880018_461891_461905_35565",
+    "audio_filepath": "../Data/audio/phn/voices/1013880018_461891_461905_35565.ogg",
+    "speaker": "1013880018",
+    "transcript": "051 1754596"
+  },
+  {
+    "audio": "1013880018_461927_461941_35292",
+    "audio_filepath": "../Data/audio/phn/voices/1013880018_461927_461941_35292.ogg",
+    "speaker": "1013880018",
+    "transcript": "012 1324245"
+  },
+  {
+    "audio": "1201653758_462345_462357_35339",
+    "audio_filepath": "../Data/audio/phn/voices/1201653758_462345_462357_35339.ogg",
+    "speaker": "1201653758",
+    "transcript": "012 3156183"
+  },
+  {
+    "audio": "539261624_462714_462727_35376",
+    "audio_filepath": "../Data/audio/phn/voices/539261624_462714_462727_35376.ogg",
+    "speaker": "539261624",
+    "transcript": "012 1865262"
+  },
+  {
+    "audio": "539261624_463145_463160_36071",
+    "audio_filepath": "../Data/audio/phn/voices/539261624_463145_463160_36071.ogg",
+    "speaker": "539261624",
+    "transcript": "099 3336695"
+  },
+  {
+    "audio": "1297961140_463358_463373_36094",
+    "audio_filepath": "../Data/audio/phn/voices/1297961140_463358_463373_36094.ogg",
+    "speaker": "1297961140",
+    "transcript": "099 5763868"
+  },
+  {
+    "audio": "671891258_463413_463421_35719",
+    "audio_filepath": "../Data/audio/phn/voices/671891258_463413_463421_35719.ogg",
+    "speaker": "671891258",
+    "transcript": "055 1951513"
+  },
+  {
+    "audio": "860296669_463422_463434_35420",
+    "audio_filepath": "../Data/audio/phn/voices/860296669_463422_463434_35420.ogg",
+    "speaker": "860296669",
+    "transcript": "050 2239734"
+  },
+  {
+    "audio": "1009209372_463607_463618_35874",
+    "audio_filepath": "../Data/audio/phn/voices/1009209372_463607_463618_35874.ogg",
+    "speaker": "1009209372",
+    "transcript": "070 6563127"
+  },
+  {
+    "audio": "1297961140_463644_463654_35614",
+    "audio_filepath": "../Data/audio/phn/voices/1297961140_463644_463654_35614.ogg",
+    "speaker": "1297961140",
+    "transcript": "051 1165917"
+  },
+  {
+    "audio": "539261624_463693_463708_36002",
+    "audio_filepath": "../Data/audio/phn/voices/539261624_463693_463708_36002.ogg",
+    "speaker": "539261624",
+    "transcript": "077 5539528"
+  },
+  {
+    "audio": "671891258_463909_463917_35429",
+    "audio_filepath": "../Data/audio/phn/voices/671891258_463909_463917_35429.ogg",
+    "speaker": "671891258",
+    "transcript": "050 5485261"
+  },
+  {
+    "audio": "527731854_464050_464057_35953",
+    "audio_filepath": "../Data/audio/phn/voices/527731854_464050_464057_35953.ogg",
+    "speaker": "527731854",
+    "transcript": "077 2199395"
+  },
+  {
+    "audio": "671891258_464049_464064_36083",
+    "audio_filepath": "../Data/audio/phn/voices/671891258_464049_464064_36083.ogg",
+    "speaker": "671891258",
+    "transcript": "099 7745976"
+  },
+  {
+    "audio": "539261624_464155_464168_35674",
+    "audio_filepath": "../Data/audio/phn/voices/539261624_464155_464168_35674.ogg",
+    "speaker": "539261624",
+    "transcript": "055 5715463"
+  },
+  {
+    "audio": "527731854_464208_464216_36058",
+    "audio_filepath": "../Data/audio/phn/voices/527731854_464208_464216_36058.ogg",
+    "speaker": "527731854",
+    "transcript": "099 8899622"
+  },
+  {
+    "audio": "426881765_464452_464476_35444",
+    "audio_filepath": "../Data/audio/phn/voices/426881765_464452_464476_35444.ogg",
+    "speaker": "426881765",
+    "transcript": "050 6415824"
+  },
+  {
+    "audio": "527731854_464658_464663_35309",
+    "audio_filepath": "../Data/audio/phn/voices/527731854_464658_464663_35309.ogg",
+    "speaker": "527731854",
+    "transcript": "012 8567717"
+  },
+  {
+    "audio": "527731854_464667_464676_35747",
+    "audio_filepath": "../Data/audio/phn/voices/527731854_464667_464676_35747.ogg",
+    "speaker": "527731854",
+    "transcript": "055 2349577"
+  },
+  {
+    "audio": "1201653758_464669_464687_35990",
+    "audio_filepath": "../Data/audio/phn/voices/1201653758_464669_464687_35990.ogg",
+    "speaker": "1201653758",
+    "transcript": "077 7368388"
+  },
+  {
+    "audio": "527731854_464802_464805_36138",
+    "audio_filepath": "../Data/audio/phn/voices/527731854_464802_464805_36138.ogg",
+    "speaker": "527731854",
+    "transcript": "099 4234627"
+  },
+  {
+    "audio": "860296669_464895_464898_36003",
+    "audio_filepath": "../Data/audio/phn/voices/860296669_464895_464898_36003.ogg",
+    "speaker": "860296669",
+    "transcript": "077 8786688"
+  },
+  {
+    "audio": "426881765_464979_465002_35180",
+    "audio_filepath": "../Data/audio/phn/voices/426881765_464979_465002_35180.ogg",
+    "speaker": "426881765",
+    "transcript": "010 8694264"
+  },
+  {
+    "audio": "815993798_465504_465513_35922",
+    "audio_filepath": "../Data/audio/phn/voices/815993798_465504_465513_35922.ogg",
+    "speaker": "815993798",
+    "transcript": "077 2393791"
+  },
+  {
+    "audio": "539261624_465524_465539_35548",
+    "audio_filepath": "../Data/audio/phn/voices/539261624_465524_465539_35548.ogg",
+    "speaker": "539261624",
+    "transcript": "051 4221727"
+  },
+  {
+    "audio": "815993798_465550_465567_35360",
+    "audio_filepath": "../Data/audio/phn/voices/815993798_465550_465567_35360.ogg",
+    "speaker": "815993798",
+    "transcript": "012 5551897"
+  },
+  {
+    "audio": "860296669_465572_465589_35766",
+    "audio_filepath": "../Data/audio/phn/voices/860296669_465572_465589_35766.ogg",
+    "speaker": "860296669",
+    "transcript": "055 8448144"
+  },
+  {
+    "audio": "640339050_465624_465655_35607",
+    "audio_filepath": "../Data/audio/phn/voices/640339050_465624_465655_35607.ogg",
+    "speaker": "640339050",
+    "transcript": "051 9949958"
+  },
+  {
+    "audio": "828296631_465703_465724_35862",
+    "audio_filepath": "../Data/audio/phn/voices/828296631_465703_465724_35862.ogg",
+    "speaker": "828296631",
+    "transcript": "070 6329218"
+  },
+  {
+    "audio": "539261624_465853_465887_35267",
+    "audio_filepath": "../Data/audio/phn/voices/539261624_465853_465887_35267.ogg",
+    "speaker": "539261624",
+    "transcript": "010 7856219"
+  },
+  {
+    "audio": "5196964268_465934_465950_35647",
+    "audio_filepath": "../Data/audio/phn/voices/5196964268_465934_465950_35647.ogg",
+    "speaker": "5196964268",
+    "transcript": "051 6838631"
+  },
+  {
+    "audio": "527731854_466013_466040_36012",
+    "audio_filepath": "../Data/audio/phn/voices/527731854_466013_466040_36012.ogg",
+    "speaker": "527731854",
+    "transcript": "077 2885755"
+  },
+  {
+    "audio": "426881765_466025_466055_35366",
+    "audio_filepath": "../Data/audio/phn/voices/426881765_466025_466055_35366.ogg",
+    "speaker": "426881765",
+    "transcript": "012 4149738"
+  },
+  {
+    "audio": "809763511_466182_466191_35883",
+    "audio_filepath": "../Data/audio/phn/voices/809763511_466182_466191_35883.ogg",
+    "speaker": "809763511",
+    "transcript": "070 9732733"
+  },
+  {
+    "audio": "671891258_466165_466193_35236",
+    "audio_filepath": "../Data/audio/phn/voices/671891258_466165_466193_35236.ogg",
+    "speaker": "671891258",
+    "transcript": "010 5549988"
+  },
+  {
+    "audio": "1201653758_466216_466232_35675",
+    "audio_filepath": "../Data/audio/phn/voices/1201653758_466216_466232_35675.ogg",
+    "speaker": "1201653758",
+    "transcript": "055 2955665"
+  },
+  {
+    "audio": "640339050_466240_466263_35843",
+    "audio_filepath": "../Data/audio/phn/voices/640339050_466240_466263_35843.ogg",
+    "speaker": "640339050",
+    "transcript": "070 2949678"
+  },
+  {
+    "audio": "426881765_466308_466349_36027",
+    "audio_filepath": "../Data/audio/phn/voices/426881765_466308_466349_36027.ogg",
+    "speaker": "426881765",
+    "transcript": "077 9433564"
+  },
+  {
+    "audio": "1082554792_466475_466491_35831",
+    "audio_filepath": "../Data/audio/phn/voices/1082554792_466475_466491_35831.ogg",
+    "speaker": "1082554792",
+    "transcript": "070 2231515"
+  },
+  {
+    "audio": "527731854_466580_466589_36007",
+    "audio_filepath": "../Data/audio/phn/voices/527731854_466580_466589_36007.ogg",
+    "speaker": "527731854",
+    "transcript": "077 3283312"
+  },
+  {
+    "audio": "671891258_466600_466611_35586",
+    "audio_filepath": "../Data/audio/phn/voices/671891258_466600_466611_35586.ogg",
+    "speaker": "671891258",
+    "transcript": "051 5641775"
+  },
+  {
+    "audio": "1128232293_466636_466648_35947",
+    "audio_filepath": "../Data/audio/phn/voices/1128232293_466636_466648_35947.ogg",
+    "speaker": "1128232293",
+    "transcript": "077 7888438"
+  },
+  {
+    "audio": "828296631_467164_467175_35479",
+    "audio_filepath": "../Data/audio/phn/voices/828296631_467164_467175_35479.ogg",
+    "speaker": "828296631",
+    "transcript": "050 8766348"
+  },
+  {
+    "audio": "671891258_467198_467208_35304",
+    "audio_filepath": "../Data/audio/phn/voices/671891258_467198_467208_35304.ogg",
+    "speaker": "671891258",
+    "transcript": "012 9275983"
+  },
+  {
+    "audio": "828296631_467273_467288_35561",
+    "audio_filepath": "../Data/audio/phn/voices/828296631_467273_467288_35561.ogg",
+    "speaker": "828296631",
+    "transcript": "051 5738256"
+  },
+  {
+    "audio": "860296669_467081_467356_35959",
+    "audio_filepath": "../Data/audio/phn/voices/860296669_467081_467356_35959.ogg",
+    "speaker": "860296669",
+    "transcript": "077 4844417"
+  },
+  {
+    "audio": "860296669_467405_467433_35668",
+    "audio_filepath": "../Data/audio/phn/voices/860296669_467405_467433_35668.ogg",
+    "speaker": "860296669",
+    "transcript": "055 2943999"
+  },
+  {
+    "audio": "5196964268_467467_467477_35688",
+    "audio_filepath": "../Data/audio/phn/voices/5196964268_467467_467477_35688.ogg",
+    "speaker": "5196964268",
+    "transcript": "055 8579982"
+  },
+  {
+    "audio": "860296669_467631_467633_35450",
+    "audio_filepath": "../Data/audio/phn/voices/860296669_467631_467633_35450.ogg",
+    "speaker": "860296669",
+    "transcript": "050 9472461"
+  },
+  {
+    "audio": "539261624_467757_467772_35246",
+    "audio_filepath": "../Data/audio/phn/voices/539261624_467757_467772_35246.ogg",
+    "speaker": "539261624",
+    "transcript": "010 2141241"
+  },
+  {
+    "audio": "539261624_467914_467933_35611",
+    "audio_filepath": "../Data/audio/phn/voices/539261624_467914_467933_35611.ogg",
+    "speaker": "539261624",
+    "transcript": "051 9363785"
+  },
+  {
+    "audio": "828296631_468017_468037_35572",
+    "audio_filepath": "../Data/audio/phn/voices/828296631_468017_468037_35572.ogg",
+    "speaker": "828296631",
+    "transcript": "051 2462255"
+  },
+  {
+    "audio": "828296631_468172_468182_35655",
+    "audio_filepath": "../Data/audio/phn/voices/828296631_468172_468182_35655.ogg",
+    "speaker": "828296631",
+    "transcript": "051 2378825"
+  },
+  {
+    "audio": "815993798_468377_468393_35893",
+    "audio_filepath": "../Data/audio/phn/voices/815993798_468377_468393_35893.ogg",
+    "speaker": "815993798",
+    "transcript": "070 8389793"
+  },
+  {
+    "audio": "539261624_468438_468474_36080",
+    "audio_filepath": "../Data/audio/phn/voices/539261624_468438_468474_36080.ogg",
+    "speaker": "539261624",
+    "transcript": "099 9876454"
+  },
+  {
+    "audio": "2016758610_468645_468667_35219",
+    "audio_filepath": "../Data/audio/phn/voices/2016758610_468645_468667_35219.ogg",
+    "speaker": "2016758610",
+    "transcript": "010 8755786"
+  },
+  {
+    "audio": "1229817727_468685_468692_35503",
+    "audio_filepath": "../Data/audio/phn/voices/1229817727_468685_468692_35503.ogg",
+    "speaker": "1229817727",
+    "transcript": "050 8466519"
+  },
+  {
+    "audio": "1229817727_468707_468716_35845",
+    "audio_filepath": "../Data/audio/phn/voices/1229817727_468707_468716_35845.ogg",
+    "speaker": "1229817727",
+    "transcript": "070 6913185"
+  },
+  {
+    "audio": "1201653758_468789_468794_35525",
+    "audio_filepath": "../Data/audio/phn/voices/1201653758_468789_468794_35525.ogg",
+    "speaker": "1201653758",
+    "transcript": "050 2887322"
+  },
+  {
+    "audio": "1229817727_469147_469154_35506",
+    "audio_filepath": "../Data/audio/phn/voices/1229817727_469147_469154_35506.ogg",
+    "speaker": "1229817727",
+    "transcript": "050 1186223"
+  },
+  {
+    "audio": "314849420_469174_469206_35849",
+    "audio_filepath": "../Data/audio/phn/voices/314849420_469174_469206_35849.ogg",
+    "speaker": "314849420",
+    "transcript": "070 3428385"
+  },
+  {
+    "audio": "1297961140_469334_469343_35638",
+    "audio_filepath": "../Data/audio/phn/voices/1297961140_469334_469343_35638.ogg",
+    "speaker": "1297961140",
+    "transcript": "051 5365931"
+  },
+  {
+    "audio": "815993798_469392_469403_35622",
+    "audio_filepath": "../Data/audio/phn/voices/815993798_469392_469403_35622.ogg",
+    "speaker": "815993798",
+    "transcript": "051 5458434"
+  },
+  {
+    "audio": "671891258_469482_469489_35191",
+    "audio_filepath": "../Data/audio/phn/voices/671891258_469482_469489_35191.ogg",
+    "speaker": "671891258",
+    "transcript": "010 2171133"
+  },
+  {
+    "audio": "671891258_469528_469539_36036",
+    "audio_filepath": "../Data/audio/phn/voices/671891258_469528_469539_36036.ogg",
+    "speaker": "671891258",
+    "transcript": "099 8273938"
+  },
+  {
+    "audio": "1229817727_469538_469560_35352",
+    "audio_filepath": "../Data/audio/phn/voices/1229817727_469538_469560_35352.ogg",
+    "speaker": "1229817727",
+    "transcript": "012 8253264"
+  },
+  {
+    "audio": "1229817727_469563_469584_35237",
+    "audio_filepath": "../Data/audio/phn/voices/1229817727_469563_469584_35237.ogg",
+    "speaker": "1229817727",
+    "transcript": "010 6462699"
+  },
+  {
+    "audio": "815993798_469686_469697_35754",
+    "audio_filepath": "../Data/audio/phn/voices/815993798_469686_469697_35754.ogg",
+    "speaker": "815993798",
+    "transcript": "055 6172981"
+  },
+  {
+    "audio": "892642911_469773_469788_35792",
+    "audio_filepath": "../Data/audio/phn/voices/892642911_469773_469788_35792.ogg",
+    "speaker": "892642911",
+    "transcript": "070 9658736"
+  },
+  {
+    "audio": "671891258_469829_469841_35474",
+    "audio_filepath": "../Data/audio/phn/voices/671891258_469829_469841_35474.ogg",
+    "speaker": "671891258",
+    "transcript": "050 4842274"
+  },
+  {
+    "audio": "671891258_469843_469852_35271",
+    "audio_filepath": "../Data/audio/phn/voices/671891258_469843_469852_35271.ogg",
+    "speaker": "671891258",
+    "transcript": "010 2938893"
+  },
+  {
+    "audio": "815993798_470044_470053_35681",
+    "audio_filepath": "../Data/audio/phn/voices/815993798_470044_470053_35681.ogg",
+    "speaker": "815993798",
+    "transcript": "055 9413552"
+  },
+  {
+    "audio": "1013880018_470040_470058_36039",
+    "audio_filepath": "../Data/audio/phn/voices/1013880018_470040_470058_36039.ogg",
+    "speaker": "1013880018",
+    "transcript": "099 8558715"
+  },
+  {
+    "audio": "2016758610_470047_470065_35482",
+    "audio_filepath": "../Data/audio/phn/voices/2016758610_470047_470065_35482.ogg",
+    "speaker": "2016758610",
+    "transcript": "050 8965987"
+  },
+  {
+    "audio": "1082554792_470211_470225_35878",
+    "audio_filepath": "../Data/audio/phn/voices/1082554792_470211_470225_35878.ogg",
+    "speaker": "1082554792",
+    "transcript": "070 4772911"
+  },
+  {
+    "audio": "828296631_470234_470252_35864",
+    "audio_filepath": "../Data/audio/phn/voices/828296631_470234_470252_35864.ogg",
+    "speaker": "828296631",
+    "transcript": "070 6291929"
+  },
+  {
+    "audio": "2016758610_470301_470311_36037",
+    "audio_filepath": "../Data/audio/phn/voices/2016758610_470301_470311_36037.ogg",
+    "speaker": "2016758610",
+    "transcript": "099 8422183"
+  },
+  {
+    "audio": "892642911_470318_470327_35788",
+    "audio_filepath": "../Data/audio/phn/voices/892642911_470318_470327_35788.ogg",
+    "speaker": "892642911",
+    "transcript": "070 4692693"
+  },
+  {
+    "audio": "2016758610_470402_470413_35505",
+    "audio_filepath": "../Data/audio/phn/voices/2016758610_470402_470413_35505.ogg",
+    "speaker": "2016758610",
+    "transcript": "050 8553644"
+  },
+  {
+    "audio": "1297961140_470510_470522_35671",
+    "audio_filepath": "../Data/audio/phn/voices/1297961140_470510_470522_35671.ogg",
+    "speaker": "1297961140",
+    "transcript": "055 2492775"
+  },
+  {
+    "audio": "1297961140_470655_470669_36016",
+    "audio_filepath": "../Data/audio/phn/voices/1297961140_470655_470669_36016.ogg",
+    "speaker": "1297961140",
+    "transcript": "077 9581847"
+  },
+  {
+    "audio": "892642911_470981_470992_36026",
+    "audio_filepath": "../Data/audio/phn/voices/892642911_470981_470992_36026.ogg",
+    "speaker": "892642911",
+    "transcript": "077 4299226"
+  },
+  {
+    "audio": "671891258_470999_471006_35432",
+    "audio_filepath": "../Data/audio/phn/voices/671891258_470999_471006_35432.ogg",
+    "speaker": "671891258",
+    "transcript": "050 9472828"
+  },
+  {
+    "audio": "815993798_471055_471064_35527",
+    "audio_filepath": "../Data/audio/phn/voices/815993798_471055_471064_35527.ogg",
+    "speaker": "815993798",
+    "transcript": "050 3137315"
+  },
+  {
+    "audio": "815993798_471065_471074_35740",
+    "audio_filepath": "../Data/audio/phn/voices/815993798_471065_471074_35740.ogg",
+    "speaker": "815993798",
+    "transcript": "055 3137692"
+  },
+  {
+    "audio": "2016758610_471305_471317_35806",
+    "audio_filepath": "../Data/audio/phn/voices/2016758610_471305_471317_35806.ogg",
+    "speaker": "2016758610",
+    "transcript": "070 8259879"
+  },
+  {
+    "audio": "1297961140_471743_471756_35480",
+    "audio_filepath": "../Data/audio/phn/voices/1297961140_471743_471756_35480.ogg",
+    "speaker": "1297961140",
+    "transcript": "050 9997537"
+  },
+  {
+    "audio": "1297961140_472105_472119_35767",
+    "audio_filepath": "../Data/audio/phn/voices/1297961140_472105_472119_35767.ogg",
+    "speaker": "1297961140",
+    "transcript": "055 7699327"
+  },
+  {
+    "audio": "809763511_472145_472156_35553",
+    "audio_filepath": "../Data/audio/phn/voices/809763511_472145_472156_35553.ogg",
+    "speaker": "809763511",
+    "transcript": "051 4272689"
+  },
+  {
+    "audio": "809763511_472168_472179_35986",
+    "audio_filepath": "../Data/audio/phn/voices/809763511_472168_472179_35986.ogg",
+    "speaker": "809763511",
+    "transcript": "077 6565116"
+  },
+  {
+    "audio": "671891258_472384_472396_36005",
+    "audio_filepath": "../Data/audio/phn/voices/671891258_472384_472396_36005.ogg",
+    "speaker": "671891258",
+    "transcript": "077 3252942"
+  },
+  {
+    "audio": "671891258_472611_472622_35201",
+    "audio_filepath": "../Data/audio/phn/voices/671891258_472611_472622_35201.ogg",
+    "speaker": "671891258",
+    "transcript": "010 7783724"
+  },
+  {
+    "audio": "1082554792_472662_472693_36062",
+    "audio_filepath": "../Data/audio/phn/voices/1082554792_472662_472693_36062.ogg",
+    "speaker": "1082554792",
+    "transcript": "099 9347751"
+  },
+  {
+    "audio": "892642911_472691_472706_35914",
+    "audio_filepath": "../Data/audio/phn/voices/892642911_472691_472706_35914.ogg",
+    "speaker": "892642911",
+    "transcript": "077 7346194"
+  },
+  {
+    "audio": "671891258_472771_472786_36073",
+    "audio_filepath": "../Data/audio/phn/voices/671891258_472771_472786_36073.ogg",
+    "speaker": "671891258",
+    "transcript": "099 1568185"
+  },
+  {
+    "audio": "1201653758_472768_472791_35574",
+    "audio_filepath": "../Data/audio/phn/voices/1201653758_472768_472791_35574.ogg",
+    "speaker": "1201653758",
+    "transcript": "051 1629192"
+  },
+  {
+    "audio": "1201653758_472794_472811_35386",
+    "audio_filepath": "../Data/audio/phn/voices/1201653758_472794_472811_35386.ogg",
+    "speaker": "1201653758",
+    "transcript": "012 4418274"
+  },
+  {
+    "audio": "671891258_473140_473179_35758",
+    "audio_filepath": "../Data/audio/phn/voices/671891258_473140_473179_35758.ogg",
+    "speaker": "671891258",
+    "transcript": "055 5526888"
+  },
+  {
+    "audio": "1013880018_473190_473209_35649",
+    "audio_filepath": "../Data/audio/phn/voices/1013880018_473190_473209_35649.ogg",
+    "speaker": "1013880018",
+    "transcript": "051 3648213"
+  },
+  {
+    "audio": "1201653758_473196_473214_35925",
+    "audio_filepath": "../Data/audio/phn/voices/1201653758_473196_473214_35925.ogg",
+    "speaker": "1201653758",
+    "transcript": "077 1122377"
+  },
+  {
+    "audio": "892642911_473359_473372_35295",
+    "audio_filepath": "../Data/audio/phn/voices/892642911_473359_473372_35295.ogg",
+    "speaker": "892642911",
+    "transcript": "012 3222983"
+  },
+  {
+    "audio": "976055738_473411_473476_36114",
+    "audio_filepath": "../Data/audio/phn/voices/976055738_473411_473476_36114.ogg",
+    "speaker": "976055738",
+    "transcript": "099 3116434"
+  },
+  {
+    "audio": "815993798_473457_473483_35755",
+    "audio_filepath": "../Data/audio/phn/voices/815993798_473457_473483_35755.ogg",
+    "speaker": "815993798",
+    "transcript": "055 6548526"
+  },
+  {
+    "audio": "809763511_474241_474261_35465",
+    "audio_filepath": "../Data/audio/phn/voices/809763511_474241_474261_35465.ogg",
+    "speaker": "809763511",
+    "transcript": "050 2764777"
+  },
+  {
+    "audio": "1082554792_474336_474349_35393",
+    "audio_filepath": "../Data/audio/phn/voices/1082554792_474336_474349_35393.ogg",
+    "speaker": "1082554792",
+    "transcript": "012 4682133"
+  },
+  {
+    "audio": "809763511_474448_474472_35613",
+    "audio_filepath": "../Data/audio/phn/voices/809763511_474448_474472_35613.ogg",
+    "speaker": "809763511",
+    "transcript": "051 7327162"
+  },
+  {
+    "audio": "1082554792_474544_474560_35633",
+    "audio_filepath": "../Data/audio/phn/voices/1082554792_474544_474560_35633.ogg",
+    "speaker": "1082554792",
+    "transcript": "051 3836894"
+  },
+  {
+    "audio": "713611046_474572_474603_36004",
+    "audio_filepath": "../Data/audio/phn/voices/713611046_474572_474603_36004.ogg",
+    "speaker": "713611046",
+    "transcript": "077 4445173"
+  },
+  {
+    "audio": "640339050_474663_474695_35751",
+    "audio_filepath": "../Data/audio/phn/voices/640339050_474663_474695_35751.ogg",
+    "speaker": "640339050",
+    "transcript": "055 3954551"
+  },
+  {
+    "audio": "815993798_474879_474894_35468",
+    "audio_filepath": "../Data/audio/phn/voices/815993798_474879_474894_35468.ogg",
+    "speaker": "815993798",
+    "transcript": "050 4369167"
+  },
+  {
+    "audio": "713611046_474943_474982_36006",
+    "audio_filepath": "../Data/audio/phn/voices/713611046_474943_474982_36006.ogg",
+    "speaker": "713611046",
+    "transcript": "077 6887425"
+  },
+  {
+    "audio": "2016758610_475021_475039_35508",
+    "audio_filepath": "../Data/audio/phn/voices/2016758610_475021_475039_35508.ogg",
+    "speaker": "2016758610",
+    "transcript": "050 7296192"
+  },
+  {
+    "audio": "1297961140_475038_475048_36028",
+    "audio_filepath": "../Data/audio/phn/voices/1297961140_475038_475048_36028.ogg",
+    "speaker": "1297961140",
+    "transcript": "077 2189411"
+  },
+  {
+    "audio": "713611046_475060_475098_35660",
+    "audio_filepath": "../Data/audio/phn/voices/713611046_475060_475098_35660.ogg",
+    "speaker": "713611046",
+    "transcript": "055 2347834"
+  },
+  {
+    "audio": "1297961140_475181_475196_35177",
+    "audio_filepath": "../Data/audio/phn/voices/1297961140_475181_475196_35177.ogg",
+    "speaker": "1297961140",
+    "transcript": "010 3215977"
+  },
+  {
+    "audio": "2016758610_475224_475241_35381",
+    "audio_filepath": "../Data/audio/phn/voices/2016758610_475224_475241_35381.ogg",
+    "speaker": "2016758610",
+    "transcript": "012 3433138"
+  },
+  {
+    "audio": "2016758610_475277_475287_35603",
+    "audio_filepath": "../Data/audio/phn/voices/2016758610_475277_475287_35603.ogg",
+    "speaker": "2016758610",
+    "transcript": "051 8652342"
+  },
+  {
+    "audio": "892642911_475599_475614_35850",
+    "audio_filepath": "../Data/audio/phn/voices/892642911_475599_475614_35850.ogg",
+    "speaker": "892642911",
+    "transcript": "070 5869652"
+  },
+  {
+    "audio": "1201653758_475607_475624_35636",
+    "audio_filepath": "../Data/audio/phn/voices/1201653758_475607_475624_35636.ogg",
+    "speaker": "1201653758",
+    "transcript": "051 2531971"
+  },
+  {
+    "audio": "713611046_475717_475750_35875",
+    "audio_filepath": "../Data/audio/phn/voices/713611046_475717_475750_35875.ogg",
+    "speaker": "713611046",
+    "transcript": "070 4553137"
+  },
+  {
+    "audio": "5196964268_475865_475880_35218",
+    "audio_filepath": "../Data/audio/phn/voices/5196964268_475865_475880_35218.ogg",
+    "speaker": "5196964268",
+    "transcript": "010 5883844"
+  },
+  {
+    "audio": "1297961140_475974_475996_35279",
+    "audio_filepath": "../Data/audio/phn/voices/1297961140_475974_475996_35279.ogg",
+    "speaker": "1297961140",
+    "transcript": "010 2189496"
+  },
+  {
+    "audio": "426881765_476112_476155_35549",
+    "audio_filepath": "../Data/audio/phn/voices/426881765_476112_476155_35549.ogg",
+    "speaker": "426881765",
+    "transcript": "051 3456467"
+  },
+  {
+    "audio": "1009209372_476235_476252_36086",
+    "audio_filepath": "../Data/audio/phn/voices/1009209372_476235_476252_36086.ogg",
+    "speaker": "1009209372",
+    "transcript": "099 6753265"
+  },
+  {
+    "audio": "2016758610_476338_476353_36141",
+    "audio_filepath": "../Data/audio/phn/voices/2016758610_476338_476353_36141.ogg",
+    "speaker": "2016758610",
+    "transcript": "099 4791248"
+  },
+  {
+    "audio": "1297961140_476386_476409_35863",
+    "audio_filepath": "../Data/audio/phn/voices/1297961140_476386_476409_35863.ogg",
+    "speaker": "1297961140",
+    "transcript": "070 6389654"
+  },
+  {
+    "audio": "2016758610_476462_476481_35451",
+    "audio_filepath": "../Data/audio/phn/voices/2016758610_476462_476481_35451.ogg",
+    "speaker": "2016758610",
+    "transcript": "050 4343135"
+  },
+  {
+    "audio": "671891258_476620_476646_35557",
+    "audio_filepath": "../Data/audio/phn/voices/671891258_476620_476646_35557.ogg",
+    "speaker": "671891258",
+    "transcript": "051 9674974"
+  },
+  {
+    "audio": "671891258_476705_476717_35637",
+    "audio_filepath": "../Data/audio/phn/voices/671891258_476705_476717_35637.ogg",
+    "speaker": "671891258",
+    "transcript": "051 4518148"
+  },
+  {
+    "audio": "1297961140_477020_477037_35443",
+    "audio_filepath": "../Data/audio/phn/voices/1297961140_477020_477037_35443.ogg",
+    "speaker": "1297961140",
+    "transcript": "050 6362928"
+  },
+  {
+    "audio": "1201653758_477203_477302_35331",
+    "audio_filepath": "../Data/audio/phn/voices/1201653758_477203_477302_35331.ogg",
+    "speaker": "1201653758",
+    "transcript": "012 5681412"
+  },
+  {
+    "audio": "2016758610_477439_477454_36045",
+    "audio_filepath": "../Data/audio/phn/voices/2016758610_477439_477454_36045.ogg",
+    "speaker": "2016758610",
+    "transcript": "099 5829911"
+  },
+  {
+    "audio": "640339050_477512_477537_35829",
+    "audio_filepath": "../Data/audio/phn/voices/640339050_477512_477537_35829.ogg",
+    "speaker": "640339050",
+    "transcript": "070 3629693"
+  },
+  {
+    "audio": "314849420_477597_477627_35623",
+    "audio_filepath": "../Data/audio/phn/voices/314849420_477597_477627_35623.ogg",
+    "speaker": "314849420",
+    "transcript": "051 8918818"
+  },
+  {
+    "audio": "5196964268_477659_477687_35469",
+    "audio_filepath": "../Data/audio/phn/voices/5196964268_477659_477687_35469.ogg",
+    "speaker": "5196964268",
+    "transcript": "050 5497364"
+  },
+  {
+    "audio": "2016758610_477714_477728_35932",
+    "audio_filepath": "../Data/audio/phn/voices/2016758610_477714_477728_35932.ogg",
+    "speaker": "2016758610",
+    "transcript": "077 4953744"
+  },
+  {
+    "audio": "809763511_477766_477784_35272",
+    "audio_filepath": "../Data/audio/phn/voices/809763511_477766_477784_35272.ogg",
+    "speaker": "809763511",
+    "transcript": "010 2542291"
+  },
+  {
+    "audio": "1082554792_477779_477790_36053",
+    "audio_filepath": "../Data/audio/phn/voices/1082554792_477779_477790_36053.ogg",
+    "speaker": "1082554792",
+    "transcript": "099 8854516"
+  },
+  {
+    "audio": "1347919237_477870_477891_35778",
+    "audio_filepath": "../Data/audio/phn/voices/1347919237_477870_477891_35778.ogg",
+    "speaker": "1347919237",
+    "transcript": "055 8441326"
+  },
+  {
+    "audio": "1082554792_478060_478069_35951",
+    "audio_filepath": "../Data/audio/phn/voices/1082554792_478060_478069_35951.ogg",
+    "speaker": "1082554792",
+    "transcript": "077 4866982"
+  },
+  {
+    "audio": "1009209372_478120_478142_35448",
+    "audio_filepath": "../Data/audio/phn/voices/1009209372_478120_478142_35448.ogg",
+    "speaker": "1009209372",
+    "transcript": "050 4293843"
+  },
+  {
+    "audio": "1347919237_478343_478355_35905",
+    "audio_filepath": "../Data/audio/phn/voices/1347919237_478343_478355_35905.ogg",
+    "speaker": "1347919237",
+    "transcript": "070 8246739"
+  },
+  {
+    "audio": "713611046_478335_478357_35973",
+    "audio_filepath": "../Data/audio/phn/voices/713611046_478335_478357_35973.ogg",
+    "speaker": "713611046",
+    "transcript": "077 9942682"
+  },
+  {
+    "audio": "671891258_478350_478362_35239",
+    "audio_filepath": "../Data/audio/phn/voices/671891258_478350_478362_35239.ogg",
+    "speaker": "671891258",
+    "transcript": "010 2685623"
+  },
+  {
+    "audio": "5196964268_478384_478396_35616",
+    "audio_filepath": "../Data/audio/phn/voices/5196964268_478384_478396_35616.ogg",
+    "speaker": "5196964268",
+    "transcript": "051 1456155"
+  },
+  {
+    "audio": "713611046_478487_478523_35314",
+    "audio_filepath": "../Data/audio/phn/voices/713611046_478487_478523_35314.ogg",
+    "speaker": "713611046",
+    "transcript": "012 1599838"
+  },
+  {
+    "audio": "671891258_478593_478609_36130",
+    "audio_filepath": "../Data/audio/phn/voices/671891258_478593_478609_36130.ogg",
+    "speaker": "671891258",
+    "transcript": "099 2926321"
+  },
+  {
+    "audio": "1082554792_478615_478623_35164",
+    "audio_filepath": "../Data/audio/phn/voices/1082554792_478615_478623_35164.ogg",
+    "speaker": "1082554792",
+    "transcript": "010 6131238"
+  },
+  {
+    "audio": "2016758610_478651_478668_35333",
+    "audio_filepath": "../Data/audio/phn/voices/2016758610_478651_478668_35333.ogg",
+    "speaker": "2016758610",
+    "transcript": "012 5545446"
+  },
+  {
+    "audio": "640339050_478725_478754_36099",
+    "audio_filepath": "../Data/audio/phn/voices/640339050_478725_478754_36099.ogg",
+    "speaker": "640339050",
+    "transcript": "099 9176999"
+  },
+  {
+    "audio": "640339050_478906_478923_35583",
+    "audio_filepath": "../Data/audio/phn/voices/640339050_478906_478923_35583.ogg",
+    "speaker": "640339050",
+    "transcript": "051 9499175"
+  },
+  {
+    "audio": "640339050_478942_478957_36011",
+    "audio_filepath": "../Data/audio/phn/voices/640339050_478942_478957_36011.ogg",
+    "speaker": "640339050",
+    "transcript": "077 8797633"
+  },
+  {
+    "audio": "809763511_478975_478983_35195",
+    "audio_filepath": "../Data/audio/phn/voices/809763511_478975_478983_35195.ogg",
+    "speaker": "809763511",
+    "transcript": "010 4662474"
+  },
+  {
+    "audio": "1347919237_478965_478985_35817",
+    "audio_filepath": "../Data/audio/phn/voices/1347919237_478965_478985_35817.ogg",
+    "speaker": "1347919237",
+    "transcript": "070 3713624"
+  },
+  {
+    "audio": "1347919237_478988_479004_35248",
+    "audio_filepath": "../Data/audio/phn/voices/1347919237_478988_479004_35248.ogg",
+    "speaker": "1347919237",
+    "transcript": "010 2364114"
+  },
+  {
+    "audio": "1009209372_479019_479038_35710",
+    "audio_filepath": "../Data/audio/phn/voices/1009209372_479019_479038_35710.ogg",
+    "speaker": "1009209372",
+    "transcript": "055 6762275"
+  },
+  {
+    "audio": "1201653758_479064_479089_35775",
+    "audio_filepath": "../Data/audio/phn/voices/1201653758_479064_479089_35775.ogg",
+    "speaker": "1201653758",
+    "transcript": "055 3968575"
+  },
+  {
+    "audio": "1201653758_479449_479464_35684",
+    "audio_filepath": "../Data/audio/phn/voices/1201653758_479449_479464_35684.ogg",
+    "speaker": "1201653758",
+    "transcript": "055 3417177"
+  },
+  {
+    "audio": "640339050_479568_479596_35581",
+    "audio_filepath": "../Data/audio/phn/voices/640339050_479568_479596_35581.ogg",
+    "speaker": "640339050",
+    "transcript": "051 5459369"
+  },
+  {
+    "audio": "2016758610_479833_479853_35938",
+    "audio_filepath": "../Data/audio/phn/voices/2016758610_479833_479853_35938.ogg",
+    "speaker": "2016758610",
+    "transcript": "077 8135896"
+  },
+  {
+    "audio": "809763511_479939_479949_35481",
+    "audio_filepath": "../Data/audio/phn/voices/809763511_479939_479949_35481.ogg",
+    "speaker": "809763511",
+    "transcript": "050 5645212"
+  },
+  {
+    "audio": "809763511_479952_479964_35194",
+    "audio_filepath": "../Data/audio/phn/voices/809763511_479952_479964_35194.ogg",
+    "speaker": "809763511",
+    "transcript": "010 9525438"
+  },
+  {
+    "audio": "1201653758_479973_479987_35338",
+    "audio_filepath": "../Data/audio/phn/voices/1201653758_479973_479987_35338.ogg",
+    "speaker": "1201653758",
+    "transcript": "012 4648388"
+  },
+  {
+    "audio": "809763511_480056_480066_35391",
+    "audio_filepath": "../Data/audio/phn/voices/809763511_480056_480066_35391.ogg",
+    "speaker": "809763511",
+    "transcript": "012 4815513"
+  },
+  {
+    "audio": "1347919237_480227_480241_35200",
+    "audio_filepath": "../Data/audio/phn/voices/1347919237_480227_480241_35200.ogg",
+    "speaker": "1347919237",
+    "transcript": "010 5758649"
+  },
+  {
+    "audio": "809763511_480280_480293_35585",
+    "audio_filepath": "../Data/audio/phn/voices/809763511_480280_480293_35585.ogg",
+    "speaker": "809763511",
+    "transcript": "051 7585733"
+  },
+  {
+    "audio": "671891258_480450_480459_35826",
+    "audio_filepath": "../Data/audio/phn/voices/671891258_480450_480459_35826.ogg",
+    "speaker": "671891258",
+    "transcript": "070 9736184"
+  },
+  {
+    "audio": "809763511_480468_480479_35287",
+    "audio_filepath": "../Data/audio/phn/voices/809763511_480468_480479_35287.ogg",
+    "speaker": "809763511",
+    "transcript": "010 1578295"
+  },
+  {
+    "audio": "2016758610_480496_480504_35656",
+    "audio_filepath": "../Data/audio/phn/voices/2016758610_480496_480504_35656.ogg",
+    "speaker": "2016758610",
+    "transcript": "051 8277131"
+  },
+  {
+    "audio": "1347919237_480511_480522_35238",
+    "audio_filepath": "../Data/audio/phn/voices/1347919237_480511_480522_35238.ogg",
+    "speaker": "1347919237",
+    "transcript": "010 8291339"
+  },
+  {
+    "audio": "1347919237_480569_480587_36125",
+    "audio_filepath": "../Data/audio/phn/voices/1347919237_480569_480587_36125.ogg",
+    "speaker": "1347919237",
+    "transcript": "099 4117914"
+  },
+  {
+    "audio": "2016758610_480585_480597_35286",
+    "audio_filepath": "../Data/audio/phn/voices/2016758610_480585_480597_35286.ogg",
+    "speaker": "2016758610",
+    "transcript": "010 4262891"
+  },
+  {
+    "audio": "2016758610_480807_480822_35318",
+    "audio_filepath": "../Data/audio/phn/voices/2016758610_480807_480822_35318.ogg",
+    "speaker": "2016758610",
+    "transcript": "012 3315549"
+  },
+  {
+    "audio": "713611046_481171_481197_35781",
+    "audio_filepath": "../Data/audio/phn/voices/713611046_481171_481197_35781.ogg",
+    "speaker": "713611046",
+    "transcript": "055 2947195"
+  },
+  {
+    "audio": "809763511_481207_481217_35407",
+    "audio_filepath": "../Data/audio/phn/voices/809763511_481207_481217_35407.ogg",
+    "speaker": "809763511",
+    "transcript": "012 5247454"
+  },
+  {
+    "audio": "671891258_481220_481236_35630",
+    "audio_filepath": "../Data/audio/phn/voices/671891258_481220_481236_35630.ogg",
+    "speaker": "671891258",
+    "transcript": "051 6968887"
+  },
+  {
+    "audio": "671891258_481379_481392_35777",
+    "audio_filepath": "../Data/audio/phn/voices/671891258_481379_481392_35777.ogg",
+    "speaker": "671891258",
+    "transcript": "055 5313333"
+  },
+  {
+    "audio": "809763511_481520_481529_35770",
+    "audio_filepath": "../Data/audio/phn/voices/809763511_481520_481529_35770.ogg",
+    "speaker": "809763511",
+    "transcript": "055 9261349"
+  },
+  {
+    "audio": "671891258_481627_481634_35262",
+    "audio_filepath": "../Data/audio/phn/voices/671891258_481627_481634_35262.ogg",
+    "speaker": "671891258",
+    "transcript": "010 6331271"
+  },
+  {
+    "audio": "1082554792_481767_481777_35422",
+    "audio_filepath": "../Data/audio/phn/voices/1082554792_481767_481777_35422.ogg",
+    "speaker": "1082554792",
+    "transcript": "050 6545429"
+  },
+  {
+    "audio": "640339050_481913_481935_35277",
+    "audio_filepath": "../Data/audio/phn/voices/640339050_481913_481935_35277.ogg",
+    "speaker": "640339050",
+    "transcript": "010 5985967"
+  },
+  {
+    "audio": "1347919237_482110_482127_35265",
+    "audio_filepath": "../Data/audio/phn/voices/1347919237_482110_482127_35265.ogg",
+    "speaker": "1347919237",
+    "transcript": "010 4265959"
+  },
+  {
+    "audio": "809763511_482214_482228_35721",
+    "audio_filepath": "../Data/audio/phn/voices/809763511_482214_482228_35721.ogg",
+    "speaker": "809763511",
+    "transcript": "055 6819118"
+  },
+  {
+    "audio": "2016758610_482227_482243_35714",
+    "audio_filepath": "../Data/audio/phn/voices/2016758610_482227_482243_35714.ogg",
+    "speaker": "2016758610",
+    "transcript": "055 7963931"
+  },
+  {
+    "audio": "1347919237_482618_482631_35261",
+    "audio_filepath": "../Data/audio/phn/voices/1347919237_482618_482631_35261.ogg",
+    "speaker": "1347919237",
+    "transcript": "010 7788847"
+  },
+  {
+    "audio": "2016758610_482782_482793_36128",
+    "audio_filepath": "../Data/audio/phn/voices/2016758610_482782_482793_36128.ogg",
+    "speaker": "2016758610",
+    "transcript": "099 6181356"
+  },
+  {
+    "audio": "809763511_482984_482990_35648",
+    "audio_filepath": "../Data/audio/phn/voices/809763511_482984_482990_35648.ogg",
+    "speaker": "809763511",
+    "transcript": "051 9234746"
+  },
+  {
+    "audio": "1347919237_482975_482996_35477",
+    "audio_filepath": "../Data/audio/phn/voices/1347919237_482975_482996_35477.ogg",
+    "speaker": "1347919237",
+    "transcript": "050 9184243"
+  },
+  {
+    "audio": "713611046_483228_483249_36143",
+    "audio_filepath": "../Data/audio/phn/voices/713611046_483228_483249_36143.ogg",
+    "speaker": "713611046",
+    "transcript": "099 8991951"
+  },
+  {
+    "audio": "640339050_483300_483311_35543",
+    "audio_filepath": "../Data/audio/phn/voices/640339050_483300_483311_35543.ogg",
+    "speaker": "640339050",
+    "transcript": "051 6694363"
+  },
+  {
+    "audio": "1347919237_483530_483540_35866",
+    "audio_filepath": "../Data/audio/phn/voices/1347919237_483530_483540_35866.ogg",
+    "speaker": "1347919237",
+    "transcript": "070 7353817"
+  },
+  {
+    "audio": "809763511_483695_483701_35707",
+    "audio_filepath": "../Data/audio/phn/voices/809763511_483695_483701_35707.ogg",
+    "speaker": "809763511",
+    "transcript": "055 7998699"
+  },
+  {
+    "audio": "640339050_483747_483753_35209",
+    "audio_filepath": "../Data/audio/phn/voices/640339050_483747_483753_35209.ogg",
+    "speaker": "640339050",
+    "transcript": "010 9247665"
+  },
+  {
+    "audio": "809763511_483833_483848_35400",
+    "audio_filepath": "../Data/audio/phn/voices/809763511_483833_483848_35400.ogg",
+    "speaker": "809763511",
+    "transcript": "012 1196983"
+  },
+  {
+    "audio": "640339050_483869_483880_35580",
+    "audio_filepath": "../Data/audio/phn/voices/640339050_483869_483880_35580.ogg",
+    "speaker": "640339050",
+    "transcript": "051 3185532"
+  },
+  {
+    "audio": "809763511_483890_483898_35702",
+    "audio_filepath": "../Data/audio/phn/voices/809763511_483890_483898_35702.ogg",
+    "speaker": "809763511",
+    "transcript": "055 9752968"
+  },
+  {
+    "audio": "1009209372_483969_483971_35952",
+    "audio_filepath": "../Data/audio/phn/voices/1009209372_483969_483971_35952.ogg",
+    "speaker": "1009209372",
+    "transcript": "077 5149286"
+  },
+  {
+    "audio": "1347919237_484029_484036_35509",
+    "audio_filepath": "../Data/audio/phn/voices/1347919237_484029_484036_35509.ogg",
+    "speaker": "1347919237",
+    "transcript": "050 2965398"
+  },
+  {
+    "audio": "809763511_484266_484272_35644",
+    "audio_filepath": "../Data/audio/phn/voices/809763511_484266_484272_35644.ogg",
+    "speaker": "809763511",
+    "transcript": "051 8346817"
+  },
+  {
+    "audio": "1347919237_484405_484412_35442",
+    "audio_filepath": "../Data/audio/phn/voices/1347919237_484405_484412_35442.ogg",
+    "speaker": "1347919237",
+    "transcript": "050 1347623"
+  },
+  {
+    "audio": "1347919237_484572_484577_35726",
+    "audio_filepath": "../Data/audio/phn/voices/1347919237_484572_484577_35726.ogg",
+    "speaker": "1347919237",
+    "transcript": "055 9593974"
+  },
+  {
+    "audio": "1347919237_484637_484641_35693",
+    "audio_filepath": "../Data/audio/phn/voices/1347919237_484637_484641_35693.ogg",
+    "speaker": "1347919237",
+    "transcript": "055 1567553"
+  },
+  {
+    "audio": "1347919237_484660_484667_35410",
+    "audio_filepath": "../Data/audio/phn/voices/1347919237_484660_484667_35410.ogg",
+    "speaker": "1347919237",
+    "transcript": "012 6427932"
+  },
+  {
+    "audio": "1347919237_484732_484733_35412",
+    "audio_filepath": "../Data/audio/phn/voices/1347919237_484732_484733_35412.ogg",
+    "speaker": "1347919237",
+    "transcript": "050 4251895"
+  },
+  {
+    "audio": "1347919237_484794_484797_35232",
+    "audio_filepath": "../Data/audio/phn/voices/1347919237_484794_484797_35232.ogg",
+    "speaker": "1347919237",
+    "transcript": "010 6689532"
+  },
+  {
+    "audio": "1347919237_484804_484809_35733",
+    "audio_filepath": "../Data/audio/phn/voices/1347919237_484804_484809_35733.ogg",
+    "speaker": "1347919237",
+    "transcript": "055 5562676"
+  },
+  {
+    "audio": "1347919237_485021_485030_35787",
+    "audio_filepath": "../Data/audio/phn/voices/1347919237_485021_485030_35787.ogg",
+    "speaker": "1347919237",
+    "transcript": "070 4586669"
+  },
+  {
+    "audio": "1009209372_485167_485172_35268",
+    "audio_filepath": "../Data/audio/phn/voices/1009209372_485167_485172_35268.ogg",
+    "speaker": "1009209372",
+    "transcript": "010 9976413"
+  },
+  {
+    "audio": "1009209372_485362_485365_35748",
+    "audio_filepath": "../Data/audio/phn/voices/1009209372_485362_485365_35748.ogg",
+    "speaker": "1009209372",
+    "transcript": "055 5474928"
+  },
+  {
+    "audio": "329749591_485578_485581_35785",
+    "audio_filepath": "../Data/audio/phn/voices/329749591_485578_485581_35785.ogg",
+    "speaker": "329749591",
+    "transcript": "070 6296883"
+  },
+  {
+    "audio": "1009209372_485593_485596_35501",
+    "audio_filepath": "../Data/audio/phn/voices/1009209372_485593_485596_35501.ogg",
+    "speaker": "1009209372",
+    "transcript": "050 1682591"
+  },
+  {
+    "audio": "329749591_485771_485780_35408",
+    "audio_filepath": "../Data/audio/phn/voices/329749591_485771_485780_35408.ogg",
+    "speaker": "329749591",
+    "transcript": "012 9724194"
+  },
+  {
+    "audio": "329749591_486156_486157_35437",
+    "audio_filepath": "../Data/audio/phn/voices/329749591_486156_486157_35437.ogg",
+    "speaker": "329749591",
+    "transcript": "050 9387791"
+  },
+  {
+    "audio": "329749591_486216_486217_35879",
+    "audio_filepath": "../Data/audio/phn/voices/329749591_486216_486217_35879.ogg",
+    "speaker": "329749591",
+    "transcript": "070 6255895"
+  },
+  {
+    "audio": "329749591_486323_486324_35615",
+    "audio_filepath": "../Data/audio/phn/voices/329749591_486323_486324_35615.ogg",
+    "speaker": "329749591",
+    "transcript": "051 9948871"
+  },
+  {
+    "audio": "329749591_486442_486443_35626",
+    "audio_filepath": "../Data/audio/phn/voices/329749591_486442_486443_35626.ogg",
+    "speaker": "329749591",
+    "transcript": "051 2561624"
+  },
+  {
+    "audio": "329749591_486452_486453_35612",
+    "audio_filepath": "../Data/audio/phn/voices/329749591_486452_486453_35612.ogg",
+    "speaker": "329749591",
+    "transcript": "051 9196984"
+  },
+  {
+    "audio": "329749591_486720_486721_35743",
+    "audio_filepath": "../Data/audio/phn/voices/329749591_486720_486721_35743.ogg",
+    "speaker": "329749591",
+    "transcript": "055 7391531"
+  },
+  {
+    "audio": "329749591_486730_486731_35811",
+    "audio_filepath": "../Data/audio/phn/voices/329749591_486730_486731_35811.ogg",
+    "speaker": "329749591",
+    "transcript": "070 6946627"
+  },
+  {
+    "audio": "329749591_486756_486757_35434",
+    "audio_filepath": "../Data/audio/phn/voices/329749591_486756_486757_35434.ogg",
+    "speaker": "329749591",
+    "transcript": "050 1961514"
+  },
+  {
+    "audio": "329749591_486788_486789_35513",
+    "audio_filepath": "../Data/audio/phn/voices/329749591_486788_486789_35513.ogg",
+    "speaker": "329749591",
+    "transcript": "050 3377958"
+  },
+  {
+    "audio": "329749591_486887_486888_36000",
+    "audio_filepath": "../Data/audio/phn/voices/329749591_486887_486888_36000.ogg",
+    "speaker": "329749591",
+    "transcript": "077 3553976"
+  },
+  {
+    "audio": "329749591_486897_486898_35741",
+    "audio_filepath": "../Data/audio/phn/voices/329749591_486897_486898_35741.ogg",
+    "speaker": "329749591",
+    "transcript": "055 7148667"
+  },
+  {
+    "audio": "329749591_487026_487027_35604",
+    "audio_filepath": "../Data/audio/phn/voices/329749591_487026_487027_35604.ogg",
+    "speaker": "329749591",
+    "transcript": "051 3431315"
+  },
+  {
+    "audio": "329749591_487130_487131_35582",
+    "audio_filepath": "../Data/audio/phn/voices/329749591_487130_487131_35582.ogg",
+    "speaker": "329749591",
+    "transcript": "051 5641946"
+  },
+  {
+    "audio": "329749591_487282_487283_35700",
+    "audio_filepath": "../Data/audio/phn/voices/329749591_487282_487283_35700.ogg",
+    "speaker": "329749591",
+    "transcript": "055 3137766"
+  }
+]
